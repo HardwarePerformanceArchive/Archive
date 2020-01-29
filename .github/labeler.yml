@@ -1,0 +1,49 @@
+automations:
+  - '.github/**/*'
+
+# Scripts
+code:
+  - '.code/**/*'
+
+scripts:
+  - '.scripts/**/*'
+
+# Dataset directory
+dataset:
+  - 'dataset/**/*'
+
+software:
+  - 'dataset/csv/**/*'
+
+openhardwaremonitor:
+  - 'dataset/csv/openhardwaremonitor/**/*'
+
+
+# Machine types
+desktops:
+  - 'dataset/csv/openhardwaremonitor/desktops/**/*'
+
+laptops:
+  - 'dataset/csv/openhardwaremonitor/laptops/**/*'
+
+
+# file formats
+csv:
+  - 'dataset/csv/**/*'
+
+xml:
+  - 'dataset/exports/formats/xml/**/*'
+
+json:
+  - 'dataset/exports/formats/json/**/*'
+
+tsv:
+  - 'dataset/exports/formats/tsv/**/*'
+
+
+# Base
+documentation:
+  - 'docs/**/*'
+
+subsets:
+  - 'modules/**/*'
