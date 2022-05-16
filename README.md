@@ -1,6 +1,8 @@
 # Performance Archive
 Author: Kent vejrup Madsen
+
 License: [MIT License](license.md)
+
 Contact: Kent.vejrup.madsen@outlook.com
 
 ## Notes
