@@ -10,6 +10,7 @@
 ## Tools
 * Files logged with [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/), 
 [on github](https://github.com/openhardwaremonitor/openhardwaremonitor/network)
+* size of stats directory: 4.60 GB
 
 
 ## Foot Notes
