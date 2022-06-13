@@ -13,7 +13,7 @@
 
 
 ## Foot Notes
-* Author: Kent vejrup Madsen
+* Author: [Kent vejrup Madsen](https://github.com/kentVejrupMadsen/)
 * Copyright 2022 Kent vejrup Madsen
 * License: [MIT License](license.md)
 * Contact: Kent.vejrup.madsen@outlook.com
