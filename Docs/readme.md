@@ -1,7 +1,8 @@
 # Documentation
 ## Content
-1. [license](license.md)
-2. [acronyms](acronyms.md)
+1. [Acronyms](acronyms.md)
+2. [Glosarry](glosarry.md)
+3. [license](license.md)
 
 ## Download
 * Download [as tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j44rG0V-dvyoxs3r_w)
