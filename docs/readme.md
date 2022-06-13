@@ -1,7 +1,7 @@
 # Documentation
 ## Content
 1. [Acronyms](acronyms.md)
-2. [Glosarry](glosarry.md)
+2. [Glossary](glossary.md)
 3. [license](license.md)
 
 
