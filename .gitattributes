@@ -2,13 +2,15 @@
 * text=auto
 
 *.md diff=markdown
+*.java diff=java
+*.sh diff=sh
 
 
 # lfs
 *.csv filter=lfs diff=lfs merge=lfs -text
 
 
-    # Git attributes
+# Git attributes
 .gitignore text eol=lf
 .gitattributes text eol=lf
 
