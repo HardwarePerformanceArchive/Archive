@@ -14,7 +14,7 @@
 
 
 ## Tools
-* Files logged with [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/), 
+* Files logged with [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/),
 [on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
 
 
