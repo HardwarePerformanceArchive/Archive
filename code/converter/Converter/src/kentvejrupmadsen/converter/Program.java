@@ -24,6 +24,7 @@
         }
 
         private ParameterFacade parameterInterpreter = null;
+
         private StoreFacade configurationStore = null;
 
 
@@ -53,9 +54,13 @@
          */
         public void initialise()
         {
-            this.parameterInterpreter = ParameterConfiguration.getInterpreter();
-            this.configurationStore = ConfigurationStore.getConfiguration();
+            this.setParameterInterpreter(
+                    ParameterConfiguration.getInterpreter()
+            );
 
+            this.setConfigurationStore(
+                    ConfigurationStore.getConfiguration()
+            );
         }
 
         public void execution()
@@ -66,5 +71,42 @@
         public void gc()
         {
 
+        }
+
+        /**
+         *
+         * @return
+         */
+        public ParameterFacade getParameterInterpreter()
+        {
+            return parameterInterpreter;
+        }
+
+        /**
+         *
+         * @return
+         */
+        public StoreFacade getConfigurationStore()
+        {
+            return configurationStore;
+        }
+
+        /**
+         *
+         * @param configurationStore
+         */
+        protected void setConfigurationStore( StoreFacade configurationStore )
+        {
+            this.configurationStore = configurationStore;
+        }
+
+
+        /**
+         *
+         * @param parameterInterpreter
+         */
+        protected void setParameterInterpreter( ParameterFacade parameterInterpreter )
+        {
+            this.parameterInterpreter = parameterInterpreter;
         }
     }
