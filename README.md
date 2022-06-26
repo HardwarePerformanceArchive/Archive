@@ -1,6 +1,8 @@
 # Performance Archive
 ## Content
+* [code](code/readme.md)
 * [documentation](docs/readme.md)
+* [script](script/readme.md)
 
 
 ## Overview
