@@ -20,7 +20,8 @@
         {
             if( ParameterConfiguration.interpreter == null )
             {
-                ParameterConfiguration.setInterpreter( new ParameterConfiguration() );
+                ParameterConfiguration.setInterpreter(
+                        new ParameterConfiguration() );
             }
 
             return interpreter;

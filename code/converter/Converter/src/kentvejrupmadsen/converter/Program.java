@@ -1,5 +1,10 @@
     package kentvejrupmadsen.converter;
 
+    import kentvejrupmadsen.converter.configuration.ConfigurationStore;
+    import kentvejrupmadsen.converter.configuration.StoreFacade;
+    import kentvejrupmadsen.converter.parameters.ParameterConfiguration;
+    import kentvejrupmadsen.converter.parameters.ParameterFacade;
+
     /**
      *
      */
@@ -7,7 +12,7 @@
     {
         /**
          *
-         * @param args
+         * @param args Console Arguments
          */
         public static void main( String[] args )
         {
@@ -17,6 +22,9 @@
             program.execution();
             program.gc();
         }
+
+        private ParameterFacade parameterInterpreter = null;
+        private StoreFacade configurationStore = null;
 
 
         // Code / Constructors
@@ -45,6 +53,8 @@
          */
         public void initialise()
         {
+            this.parameterInterpreter = ParameterConfiguration.getInterpreter();
+            this.configurationStore = ConfigurationStore.getConfiguration();
 
         }
 
