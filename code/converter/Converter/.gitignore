@@ -1,6 +1,0 @@
-# files to ignore
-*.iml
-
-# Directories to ignore
-.idea/*
-out/*
