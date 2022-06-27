@@ -14,7 +14,7 @@ recorded in csv format.
 
 
 ## Overview
-* size of stats directory: 4.60 GB
+* size of stats directory: 4.93 GB
 
 
 ## Download
