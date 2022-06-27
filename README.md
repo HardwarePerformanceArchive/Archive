@@ -5,21 +5,26 @@ recorded in csv format.
 ## Content
 * Documents
     * [Code](code/readme.md)
+
     * [Documentation](docs/readme.md)
+
     * [Format](format/readme.md)
         * data from Stats that has been converted into another format
+
     * [Script](script/readme.md)
         * Scripts to interact with the data
+
     * [Stats](stats/readme.md)
         * Contains raw recorded data
 
 * Appendicies
     * [Changelog](CHANGELOG.md)
+
     * [License - MIT License](license.md)
 
 
 ## Overview
-* size of stats directory: 4.93 GB
+* Size of stats directory: 4.93 GB
 
 
 ## Download
