@@ -2,11 +2,14 @@
 ## Content
 1. [Acronyms](acronyms.md)
 2. [Glossary](glossary.md)
-3. [license](license.md)
+
+## Appendices
+1. [License](license.md)
+2. [Changelog](CHANGELOG.md)
 
 
 ## Overview
-* size of stats directory: 4.60 GB
+* size of stats directory: 4.93 GB
 
 
 ## Download
@@ -17,9 +20,9 @@
 * Author: [Kent vejrup Madsen](https://github.com/kentVejrupMadsen/)
 * Copyright 2022 Kent vejrup Madsen
 * License: [MIT License](license.md)
-* Contact: Kent.vejrup.madsen@outlook.com
+* Contact: Kent.vejrup.madsen@designermadsen.com
 
 
 ### Notes
 * Created at: 29-01-2020
-* Updated at: 13-06-2022
+* Updated at: 27-06-2022
