@@ -3,12 +3,13 @@ This repository contains data that are recorded hardware performance it is
 recorded in csv format. 
 
 ## Content
-* documents
+* Documents
     * [Code](code/readme.md)
     * [Documentation](docs/readme.md)
     * [Format](format/readme.md)
     * [Script](script/readme.md)
-* appendicies
+    
+* Appendicies
     * [Changelog](CHANGELOG.md)
     * [License - MIT License](license.md)
 
@@ -34,6 +35,8 @@ Currently this repository only has support for CSV files. I am currently working
 * SQL
     * MySQL
     * PostgreSQL
+
+Currently also working on having the data sorted & filtered by Year. together with making a branches for it.
 
 
 ## Foot Notes
