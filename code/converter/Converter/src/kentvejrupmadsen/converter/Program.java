@@ -2,8 +2,10 @@
 
     import kentvejrupmadsen.converter.configuration.ConfigurationStore;
     import kentvejrupmadsen.converter.configuration.StoreFacade;
+
     import kentvejrupmadsen.converter.parameters.ParameterConfiguration;
     import kentvejrupmadsen.converter.parameters.ParameterFacade;
+
 
     /**
      *
@@ -23,9 +25,15 @@
             program.gc();
         }
 
+
+        // Variables
         private ParameterFacade parameterInterpreter = null;
 
         private StoreFacade configurationStore = null;
+
+        private String[] arguments = null;
+
+        private StateController controller = null;
 
 
         // Code / Constructors
@@ -34,7 +42,9 @@
          */
         public Program()
         {
-
+            this.setController(
+                    new StateController()
+            );
         }
 
         /**
@@ -44,7 +54,7 @@
         public Program( String[] arguments )
         {
             super();
-
+            this.setArguments( arguments );
         }
 
 
@@ -54,23 +64,77 @@
          */
         public void initialise()
         {
-            this.setParameterInterpreter(
-                    ParameterConfiguration.getInterpreter()
+            this.initialiseConfiguration();
+            this.initialiseParameters();
+        }
+
+
+        /**
+         *
+         */
+        protected void initialiseConfiguration()
+        {
+            ConfigurationStore.getConfiguration().setStateController(
+                    this.getController()
             );
 
             this.setConfigurationStore(
                     ConfigurationStore.getConfiguration()
             );
+
+            this.getConfigurationStore().configure();
         }
 
+        /**
+         *
+         */
+        protected void initialiseParameters()
+        {
+            ParameterConfiguration.getInterpreter().setStateController(
+                    this.getController()
+            );
+
+            this.setParameterInterpreter(
+                    ParameterConfiguration.getInterpreter()
+            );
+
+            this.getParameterInterpreter().configure();
+        }
+
+        /**
+         *
+         */
         public void execution()
         {
 
         }
 
+        /**
+         *
+         */
         public void gc()
         {
 
+        }
+
+        
+        // Accessors
+        /**
+         *
+         * @return
+         */
+        public String[] getArguments()
+        {
+            return arguments;
+        }
+
+        /**
+         *
+         * @param arguments
+         */
+        protected void setArguments( String[] arguments )
+        {
+            this.arguments = arguments;
         }
 
         /**
@@ -108,5 +172,15 @@
         protected void setParameterInterpreter( ParameterFacade parameterInterpreter )
         {
             this.parameterInterpreter = parameterInterpreter;
+        }
+
+        public StateController getController()
+        {
+            return controller;
+        }
+
+        public void setController( StateController controller )
+        {
+            this.controller = controller;
         }
     }
