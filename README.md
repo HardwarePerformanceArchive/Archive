@@ -1,6 +1,8 @@
 # Performance Archive
 ## Content
+* [code](code/readme.md)
 * [documentation](docs/readme.md)
+* [script](script/readme.md)
 
 
 ## Overview
@@ -12,7 +14,7 @@
 
 
 ## Tools
-* Files logged with [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/), 
+* Files logged with [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/),
 [on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
 
 

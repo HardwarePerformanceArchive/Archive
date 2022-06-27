@@ -1,12 +1,8 @@
-    package kentvejrupmadsen.converter.configuration;
-
+    package kentvejrupmadsen.converter.parameters;
 
     import kentvejrupmadsen.converter.StateController;
 
-    /**
-     *
-     */
-    public interface StoreFacade
+    public interface ParameterFacade
     {
         void setStateController( StateController controller );
         boolean configure();
