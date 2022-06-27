@@ -2,7 +2,6 @@
 * text=auto
 
 *.md diff=markdown
-*.java diff=java
 *.sh diff=sh
 
 
