@@ -4,6 +4,9 @@
 *.md diff=markdown
 *.sh diff=sh
 
+*.xml diff=text
+*.json diff=text
+
 
 # lfs
 *.csv filter=lfs diff=lfs merge=lfs -text
