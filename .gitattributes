@@ -1,12 +1,20 @@
 # Default for all
 * text=auto
 
+*.csv diff=text
+*.json diff=text
+*.tsv diff=text
+*.xml diff=text
+
 *.md diff=markdown
 *.sh diff=sh
 
 
 # lfs
 *.sql filter=lfs diff=lfs merge=lfs -text
+
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
 
 
 # Git attributes
