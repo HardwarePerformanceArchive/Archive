@@ -6,8 +6,8 @@
 *.tsv diff=text eol=lf
 *.xml diff=text eol=lf
 
-*.md diff=markdown
-*.sh diff=sh
+*.md diff=markdown eol=lf
+*.sh diff=sh eol=lf
 
 
 # lfs
@@ -20,5 +20,6 @@
 # Git attributes
 .gitignore text eol=lf
 .gitattributes text eol=lf
+
 /.github export-ignore
 CHANGELOG.md export-ignore
