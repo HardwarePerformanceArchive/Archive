@@ -6,13 +6,12 @@ recorded in csv format.
 ## Content
 * Documents
     * [Code](code/readme.md)
-
     * [Documentation](docs/readme.md)
 
-    * [Format](format/readme.md)
+    * [Formats](formats/readme.md)
         * data from Stats that has been converted into another format
 
-    * [Script](script/readme.md)
+    * [Scripts](scripts/readme.md)
         * Scripts to interact with the data
 
     * [dataset](dataset/readme.md)
@@ -28,7 +27,8 @@ recorded in csv format.
 
 
 ## Download
-* Download [as tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j44rG0V-dvyoxs3r_w) or [as zip](https://1drv.ms/u/s!AnVSo6qhoQp5j49a5woqf6x41OHMYg?e=SgTFxC)
+* Download [as tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j44rG0V-dvyoxs3r_w)
+or [as zip](https://1drv.ms/u/s!AnVSo6qhoQp5j49a5woqf6x41OHMYg?e=SgTFxC)
 
 
 ## Tools
@@ -38,12 +38,15 @@ recorded in csv format.
 
 ## Support
 Currently this repository only has support for CSV files. I am currently working on a solution. To have the files reformatted into. i am looking into it.
-* JSON
-* XML
-* TSV
-* SQL
+* Formats
+    * JSON
+    * XML
+    * TSV
+
+* Code
     * MySQL
     * PostgreSQL
+
 
 Currently also working on having the data sorted & filtered by Year. together with making branches for it.
 
