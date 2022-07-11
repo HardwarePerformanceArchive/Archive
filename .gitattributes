@@ -1,13 +1,13 @@
 # Default for all
 * text=auto
 
-*.csv diff=text eol=lf
-*.json diff=text eol=lf
-*.tsv diff=text eol=lf
-*.xml diff=text eol=lf
+*.csv diff=text eol=crlf
+*.json diff=text eol=crlf
+*.tsv diff=text eol=crlf
+*.xml diff=text eol=crlf
 
-*.md diff=markdown eol=lf
-*.sh diff=sh eol=lf
+*.md diff=markdown eol=crlf
+*.sh diff=sh eol=crlf
 
 
 # lfs
@@ -18,8 +18,8 @@
 
 
 # Git attributes
-.gitignore text eol=lf
-.gitattributes text eol=lf
+.gitignore text eol=crlf
+.gitattributes text eol=crlf
 
 /.github export-ignore
 CHANGELOG.md export-ignore
