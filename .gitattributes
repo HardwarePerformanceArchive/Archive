@@ -1,10 +1,10 @@
 # Default for all
 * text=auto
 
-*.csv diff=text
-*.json diff=text
-*.tsv diff=text
-*.xml diff=text
+*.csv diff=text eol=lf
+*.json diff=text eol=lf
+*.tsv diff=text eol=lf
+*.xml diff=text eol=lf
 
 *.md diff=markdown
 *.sh diff=sh
