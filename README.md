@@ -2,6 +2,7 @@
 This repository contains data that are recorded hardware performance it is 
 recorded in csv format. 
 
+
 ## Content
 * Documents
     * [Code](code/readme.md)
@@ -14,17 +15,16 @@ recorded in csv format.
     * [Script](script/readme.md)
         * Scripts to interact with the data
 
-    * [Stats](stats/readme.md)
+    * [dataset](dataset/readme.md)
         * Contains raw recorded data
 
 * Appendicies
-    * [Changelog](CHANGELOG.md)
-
+    * [Changes](CHANGELOG.md)
     * [License - MIT License](license.md)
 
 
 ## Overview
-* Size of stats directory: 4.93 GB
+* Size of stats directory: 5.46 GB
 
 
 ## Download
@@ -52,9 +52,10 @@ Currently also working on having the data sorted & filtered by Year. together wi
 * Author: [Kent vejrup Madsen](https://github.com/kentVejrupMadsen/)
 * Copyright 2022 Kent vejrup Madsen
 * License: [MIT License](license.md)
+* Changelog: [Changes](CHANGELOG.md)
 * Contact: Kent.vejrup.madsen@designermadsen.com
 
 
 ### Document
 * Created at: 29-01-2020
-* Updated at: 27-06-2022
+* Updated at: 11-07-2022
