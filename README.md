@@ -15,7 +15,7 @@ recorded in csv format.
     * [Script](script/readme.md)
         * Scripts to interact with the data
 
-    * [Stats](stats/readme.md)
+    * [dataset](dataset/readme.md)
         * Contains raw recorded data
 
 * Appendicies
