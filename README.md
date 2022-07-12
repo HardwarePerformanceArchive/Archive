@@ -1,5 +1,5 @@
 # Hardware Performance Archive
-This repository contains data that are recorded hardware performance and raw data is in CSV format. 
+This repository contains data that are recorded hardware performance and the raw data is aved in CSV format. 
 
 
 ## Content
