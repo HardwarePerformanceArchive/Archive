@@ -1,21 +1,22 @@
 # Hardware Performance Archive
-This repository contains data that are recorded hardware performance it is 
-recorded in csv format. 
+This repository contains data that are recorded hardware performance and raw data is in CSV format. 
 
 
 ## Content
 * Documents
     * [Code](code/readme.md)
+
+    * [Dataset](dataset/readme.md)
+        * Contains raw data recorded with [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/)
+
     * [Documentation](docs/readme.md)
 
     * [Formats](formats/readme.md)
-        * data from Stats that has been converted into another format
+        * data from dataset that has been converted into another format
 
     * [Scripts](scripts/readme.md)
         * Scripts to interact with the data
 
-    * [dataset](dataset/readme.md)
-        * Contains raw recorded data
 
 * Appendicies
     * [Changes](CHANGELOG.md)
