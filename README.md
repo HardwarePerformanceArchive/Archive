@@ -24,7 +24,7 @@ This repository contains data that are recorded hardware performance and raw dat
 
 
 ## Overview
-* Size of stats directory: 5.46 GB
+* Size of stats directory: 5.48 GB
 
 
 ## Download
@@ -62,4 +62,4 @@ Currently also working on having the data sorted & filtered by Year. together wi
 
 ### Document
 * Created at: 29-01-2020
-* Updated at: 11-07-2022
+* Updated at: 12-07-2022
