@@ -51,6 +51,8 @@ Currently this repository only has support for CSV files. I am currently working
 
 Currently also working on having the data sorted & filtered by Year. together with making branches for it.
 
+## Cover
+![Cover image](preview.jpg)
 
 ## Foot Notes
 * Author: [Kent vejrup Madsen](https://github.com/kentVejrupMadsen/)
