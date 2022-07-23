@@ -1,3 +1,7 @@
+# Cover
+![Repository cover image for social networks](preview.jpg)
+
+
 # Hardware Performance Archive
 This repository contains data that are recorded hardware performance. The raw data is saved in CSV file format and is located in the dataset directory.
 
@@ -70,10 +74,6 @@ Currently in development
 
 
 Currently also working on having the data sorted & filtered by Year. together with making branches for it.
-
-
-## Cover
-![Repository cover image for social networks](preview.jpg)
 
 
 ## Foot Notes
