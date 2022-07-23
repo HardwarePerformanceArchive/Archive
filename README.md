@@ -27,11 +27,22 @@ The release of the dataset Version 1.0.1 can be found and downloaded at [Kaggle]
 
 
 ## Overview
-* Size of stats directory: 5.68 GB
+* Size of dataset directory: 5.68 GB
+* Encoding of files in dataset directory: US-ASCII
 * First record at: 2018-09-17
 * Last record at: 2022-07-22
 * Dataset Record File format: CSV
 * Dataset exported to: None
+
+
+### Total size
+* Datasets total size is: ( **5.68** GB )
+    * dataset directory: 5.68 GB
+    * formats directory: 0.0 GB
+        * JSON directory: 0.0 GB
+        * XML Directory : 0.0 GB
+        * TSV Directory : 0.0 GB
+
 
 ## Tools
 * Files logged with [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/),
