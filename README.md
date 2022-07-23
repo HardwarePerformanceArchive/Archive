@@ -1,6 +1,6 @@
 # Cover
 ![Repository cover image for social networks](preview.jpg)
-
+ - [2022, Designermadsen](https://www.deviantart.com/designermadsen/art/Electronics-923444847)
 
 # Hardware Performance Archive
 This repository contains data that are recorded hardware performance. The raw data is saved in CSV file format and is located in the dataset directory.
