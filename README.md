@@ -1,11 +1,19 @@
 # Cover
 ![Repository cover image for social networks](preview.jpg)
- - [2022, Designermadsen](https://www.deviantart.com/designermadsen/art/Electronics-923444847)
+[2022, Designermadsen](https://www.deviantart.com/designermadsen/art/Electronics-923444847)
 
 # Hardware Performance Archive
 This repository contains data that are recorded hardware performance. The raw data is saved in CSV file format and is located in the dataset directory.
 
-The release of the dataset Version 1.0.1 can be found and downloaded at [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). You're welcome to experiement with it with 'notebooks'.
+The release of the dataset Version 1.0.1 can be found and downloaded at [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). You're welcome to experiement with it in 'notebooks' and etc.
+
+## Overview
+* Size of dataset directory: 5.68 GB
+* Encoding of files in dataset directory: US-ASCII
+* First record at: 2018-09-17
+* Last record at: 2022-07-22
+* Dataset Record File format: CSV
+* Dataset exported to: None
 
 
 ## Content
@@ -30,16 +38,7 @@ The release of the dataset Version 1.0.1 can be found and downloaded at [Kaggle]
     * [Dataset License - Attribution 4.0 International](sourcecode_license.md)
 
 
-## Overview
-* Size of dataset directory: 5.68 GB
-* Encoding of files in dataset directory: US-ASCII
-* First record at: 2018-09-17
-* Last record at: 2022-07-22
-* Dataset Record File format: CSV
-* Dataset exported to: None
-
-
-### Total size
+## Total size of the dataset
 * Datasets total size is: ( **5.68** GB )
     * dataset directory: 5.68 GB
     * formats directory: 0.0 GB
@@ -51,6 +50,7 @@ The release of the dataset Version 1.0.1 can be found and downloaded at [Kaggle]
 ## Tools
 * Files logged with [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/),
 [on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
+
 
 ## Download
 * [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance)
