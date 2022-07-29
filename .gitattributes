@@ -18,8 +18,8 @@
 
 
 # Git attributes
-.gitignore text eol=crlf
-.gitattributes text eol=crlf
+.gitignore text eol=lf
+.gitattributes text eol=lf
 
 /.github export-ignore
 CHANGELOG.md export-ignore
