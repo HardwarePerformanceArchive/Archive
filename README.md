@@ -53,13 +53,15 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Download & Others
-* [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance), a place to download it or play with the dataset.
+* [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance), 
+a place to download it or play with the dataset.
 * Download the current release as [as tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j44rG0V-dvyoxs3r_w)
 or [as zip](https://1drv.ms/u/s!AnVSo6qhoQp5j49a5woqf6x41OHMYg?e=SgTFxC)
 
 
 ## Support
-Currently this repository only has support for CSV files. I am currently working on a solution. To have the files reformatted into other formats like json, xml and tsv.
+Currently this repository only has support for CSV files. I am currently working on a solution. 
+To have the files reformatted into other formats like json, xml and tsv.
 
 Currently in development
 * ***Formats***
