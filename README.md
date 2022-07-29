@@ -33,14 +33,14 @@ The release of the dataset Version 1.0.1 can be found and downloaded at [Kaggle]
 
 
 * Appendicies
-    * [Changes](CHANGELOG.md)
+    * [Changes](CHANGELOG.md) for each version.
     * [Source Code License - MIT License](sourcecode_license.md)
     * [Dataset License - Attribution 4.0 International](sourcecode_license.md)
 
 
 ## Total size of the dataset
-* Datasets total size is: ( **5.68** GB )
-    * dataset directory: 5.68 GB
+* Datasets total size is: ( **5.82** GB )
+    * dataset directory: 5.82 GB
     * formats directory: 0.0 GB
         * JSON directory: 0.0 GB
         * XML Directory : 0.0 GB
@@ -52,9 +52,9 @@ The release of the dataset Version 1.0.1 can be found and downloaded at [Kaggle]
 [on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
 
 
-## Download
-* [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance)
-* Download [as tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j44rG0V-dvyoxs3r_w)
+## Download & Others
+* [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance), a place to download it or play with the dataset.
+* Download the current release as [as tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j44rG0V-dvyoxs3r_w)
 or [as zip](https://1drv.ms/u/s!AnVSo6qhoQp5j49a5woqf6x41OHMYg?e=SgTFxC)
 
 
@@ -89,13 +89,23 @@ Keep in mind that this repository is a fork of the repository [Private-Data-Perf
 * DOI: 10.34740/kaggle/ds/2360009
     * APA
 
-          Kent vejrup Madsen. (2022). <i>Performance Data</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2360009
+          Kent vejrup Madsen. (2022). 
+          <i>Performance Data</i> 
+          [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2360009
 
     * BibTeX
 
-          @misc{kent vejrup madsen_2022, title={Performance Data}, url={https://www.kaggle.com/ds/2360009}, DOI={10.34740/KAGGLE/DS/2360009}, publisher={Kaggle}, author={Kent vejrup Madsen}, year={2022} }
+          @misc{
+            kent vejrup madsen_2022, 
+            title={Performance Data}, 
+            url={https://www.kaggle.com/ds/2360009}, 
+            DOI={10.34740/KAGGLE/DS/2360009}, 
+            publisher={Kaggle}, 
+            author={Kent vejrup Madsen}, 
+            year={2022} }
+
 
 ### Document
 * Original creation date at: [31-01-2019](https://github.com/KentMadsen/Private-Data-Performance)
 * Created at: 29-01-2020
-* Updated at: 23-07-2022
+* Updated at: 29-07-2022
