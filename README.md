@@ -1,7 +1,11 @@
 # Hardware Performance Archive
-This repository contains data that are recorded hardware performance. The raw data is saved in CSV file format and is located in the dataset directory.
+This repository contains data that are recorded hardware performance. 
+The raw data is saved in CSV fileformat and is located in the dataset directory.
 
-The release of the dataset Version 1.0.1 can be found and downloaded at [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). You're welcome to experiement with it in 'notebooks' and etc.
+The release of the dataset Version 1.0.1 can be found and downloaded at
+[Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). 
+You're welcome to experiement with it in 'notebooks' and etc.
+
 
 ## Overview
 * Size of dataset directory: 5.82 GB
