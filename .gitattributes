@@ -7,7 +7,7 @@
 *.xml diff=text eol=crlf
 
 *.md diff=markdown eol=crlf
-*.sh diff=sh eol=crlf
+*.sh diff=sh eol=lf
 
 
 # lfs
