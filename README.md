@@ -60,10 +60,11 @@ You're welcome to experiement with it in 'notebooks' and etc.
 * [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance), 
 a place to download it or play with the dataset.
 
-* Download the current release as
+* Download the current release
 [as tar.gz](https://github.com/KentVejrupMadsen/data.performance/archive/refs/tags/release-03-08-2022.tar.gz)
 or
-[as zip](https://github.com/KentVejrupMadsen/data.performance/archive/refs/tags/release-03-08-2022.zip)
+[as a zip file](https://github.com/KentVejrupMadsen/data.performance/archive/refs/tags/release-03-08-2022.zip) from 
+[Github](https://github.com/KentVejrupMadsen/data.performance/releases/tag/release-03-08-2022).
     * SHA-256 for tar.gz: 
     9a0820ca2f2721c2a179e852636ee15f92ff9fc0fd404d708644753a068ec48a
 
