@@ -1,17 +1,21 @@
 # Hardware Performance Archive
-This repository contains data that are recorded hardware performance. 
+This repository contains data that are recorded hardware performance.
 The raw data is saved in CSV fileformat and is located in the dataset directory.
 
-The release of the dataset Version 1.0.1 can be found and downloaded at
+The release of the dataset Version 1.0.2 can be found and downloaded at
 [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). 
 You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Overview
-* Size of dataset directory: 5.82 GB
+* Size of dataset directory: 5.94 GB
+
+* Current Version: V1.0.2
 * Encoding of files in dataset directory: US-ASCII
+
 * First record at: 2018-09-17
-* Last record at: 2022-07-28
+* Last record at: 2022-08-02
+
 * Dataset Record File format: CSV
 * Dataset exported to: None
 
@@ -39,8 +43,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Total size of the dataset
-* Datasets total size is: ( **5.82** GB )
-    * dataset directory: 5.82 GB
+* Datasets total size is: ( **5.94** GB )
+    * dataset directory: 5.94 GB
     * formats directory: 0.0 GB
         * JSON directory: 0.0 GB
         * XML Directory : 0.0 GB
@@ -115,7 +119,7 @@ at my previous [account](https://github.com/KentMadsen)
 ### Document
 * Original creation date at: [31-01-2019](https://github.com/KentMadsen/Private-Data-Performance)
 * Created at: 29-01-2020
-* Updated at: 29-07-2022
+* Updated at: 03-08-2022
 
 
 # Cover
