@@ -59,9 +59,16 @@ You're welcome to experiement with it in 'notebooks' and etc.
 ## Download & Others
 * [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance), 
 a place to download it or play with the dataset.
-* Download the current release as [as tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j8FgkzbSGiBM-7-yAA?e=uiQNwe)
-or [as zip](https://1drv.ms/u/s!AnVSo6qhoQp5j8Ff2imL5a4rzVlsqw?e=yFdHxA)
 
+* Download the current release as
+[as tar.gz](https://github.com/KentVejrupMadsen/data.performance/archive/refs/tags/release-03-08-2022.tar.gz)
+or
+[as zip](https://github.com/KentVejrupMadsen/data.performance/archive/refs/tags/release-03-08-2022.zip)
+    * SHA-256 for tar.gz: 
+    9a0820ca2f2721c2a179e852636ee15f92ff9fc0fd404d708644753a068ec48a
+
+    * SHA-256 for zip:
+    6077517577d2b24c066dc474e3fe9659ab07642c1dfc64d2739f6fb53d2955d1
 
 ## Support
 Currently this repository only has support for CSV files. I am currently working on a solution. 
