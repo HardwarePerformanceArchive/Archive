@@ -102,7 +102,7 @@ at my previous [account](https://github.com/KentMadsen)
     * Licenses
         * Source Code License: [MIT License](docs/licenses/sourcecode_license.md)
         * Dataset License: [Attribution 4.0 International](docs/licenses/dataset_license.md)
-* Changelog: [Changes](CHANGELOG.md)
+* Changelog: [Changes](docs/changelog.md)
 * Contact: Kent.vejrup.madsen@designermadsen.dk
 
 
