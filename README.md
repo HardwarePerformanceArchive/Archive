@@ -37,9 +37,9 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 * Appendicies
-    * [Changes](CHANGELOG.md) for each version.
-    * [Source Code License - MIT License](sourcecode_license.md)
-    * [Dataset License - Attribution 4.0 International](sourcecode_license.md)
+    * [Changes](docs/changelog.md) for each version.
+    * [Source Code License - MIT License](docs/licenses/sourcecode_license.md)
+    * [Dataset License - Attribution 4.0 International](docs/licenses/sourcecode_license.md)
 
 
 ## Total size of the dataset
@@ -52,8 +52,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Tools
-* Files logged with [OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/),
-[on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
+* Files logged with [OpenHardwareMonitor it can be downloaded here](https://openhardwaremonitor.org/downloads/), it's
+repository is [on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
 
 
 ## Download & Others
