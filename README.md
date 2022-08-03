@@ -38,8 +38,9 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 * Appendicies
     * [Changes](docs/changelog.md) for each version.
-    * [Source Code License - MIT License](docs/licenses/sourcecode_license.md)
-    * [Dataset License - Attribution 4.0 International](docs/licenses/sourcecode_license.md)
+    * Licenses:
+        * [Source Code License - MIT License](docs/licenses/sourcecode_license.md)
+        * [Dataset License - Attribution 4.0 International](docs/licenses/sourcecode_license.md)
 
 
 ## Total size of the dataset
