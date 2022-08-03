@@ -84,7 +84,7 @@ Currently also working on having the data sorted & filtered by Year. together wi
 
 ## Foot Notes
 Keep in mind that this repository is a fork of the repository 
-[Private-Data-Performance](https://github.com/KentMadsen/Private-Data-Performance/commits/master), 
+[Private-Data-Performance](https://github.com/KentMadsen/Private-Data-Performance/commits/master),
 at my previous [account](https://github.com/KentMadsen)
  as i have lost access to it.
 
