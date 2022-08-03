@@ -59,8 +59,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
 ## Download & Others
 * [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance), 
 a place to download it or play with the dataset.
-* Download the current release as [as tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j44rG0V-dvyoxs3r_w)
-or [as zip](https://1drv.ms/u/s!AnVSo6qhoQp5j49a5woqf6x41OHMYg?e=SgTFxC)
+* Download the current release as [as tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j8FgkzbSGiBM-7-yAA?e=uiQNwe)
+or [as zip](https://1drv.ms/u/s!AnVSo6qhoQp5j8Ff2imL5a4rzVlsqw?e=yFdHxA)
 
 
 ## Support
@@ -84,7 +84,7 @@ Currently also working on having the data sorted & filtered by Year. together wi
 
 ## Foot Notes
 Keep in mind that this repository is a fork of the repository 
-[Private-Data-Performance](https://github.com/KentMadsen/Private-Data-Performance/commits/master), 
+[Private-Data-Performance](https://github.com/KentMadsen/Private-Data-Performance/commits/master),
 at my previous [account](https://github.com/KentMadsen)
  as i have lost access to it.
 
