@@ -57,13 +57,14 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Download & Others
-* [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance), 
-a place to download it or play with the dataset.
+* Kaggle, 
+a place to download datasets and play with them. Performance data is setup as a [dataset](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance) and can be downloaded or used with code.
 
 * Download the current release
 [as tar.gz](https://github.com/KentVejrupMadsen/data.performance/archive/refs/tags/release-03-08-2022.tar.gz)
-or
-[as a zip file](https://github.com/KentVejrupMadsen/data.performance/archive/refs/tags/release-03-08-2022.zip) from 
+or 
+[as a zip file](https://github.com/KentVejrupMadsen/data.performance/archive/refs/tags/release-03-08-2022.zip) 
+from 
 [Github](https://github.com/KentVejrupMadsen/data.performance/releases/tag/release-03-08-2022).
     * SHA-256 for tar.gz: 
     9a0820ca2f2721c2a179e852636ee15f92ff9fc0fd404d708644753a068ec48a
@@ -98,8 +99,9 @@ at my previous [account](https://github.com/KentMadsen)
 
 * Author: [Kent vejrup Madsen](https://github.com/kentVejrupMadsen/)
 * Copyright 2022 Kent vejrup Madsen
-* Source Code License: [MIT License](sourcecode_license.md)
-* Dataset License: [Attribution 4.0 International](sourcecode_license.md)
+    * Licenses
+        * Source Code License: [MIT License](docs/licenses/sourcecode_license.md)
+        * Dataset License: [Attribution 4.0 International](docs/licenses/dataset_license.md)
 * Changelog: [Changes](CHANGELOG.md)
 * Contact: Kent.vejrup.madsen@designermadsen.dk
 
