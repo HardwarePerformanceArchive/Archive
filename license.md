@@ -1,7 +1,5 @@
 # Attribution 4.0 International
 
-=======================================================================
-
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
 Creative Commons public licenses does not create a lawyer-client or
@@ -52,9 +50,8 @@ exhaustive, and do not form part of our licenses.
      for the public:
      wiki.creativecommons.org/Considerations_for_licensees
 
-=======================================================================
 
-Creative Commons Attribution 4.0 International Public License
+# Creative Commons Attribution 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons
@@ -372,8 +369,7 @@ Section 8 -- Interpretation.
      that apply to the Licensor or You, including from the legal
      processes of any jurisdiction or authority.
 
-
-=======================================================================
+ -----
 
 Creative Commons is not a party to its public licenses.
 Notwithstanding, Creative Commons may elect to apply one of its public
