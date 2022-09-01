@@ -15,10 +15,12 @@ csv:
 
 2019:
   - 'dataset/csv/openhardwaremonitor/laptops/asus/x556u/2019/**/*'
+  - 'dataset/csv/openhardwaremonitor/desktops/asus/intel.sabertooth/2019/**/*'
 
 
 2020:
   - 'dataset/csv/openhardwaremonitor/laptops/asus/gl553vd/2020/**/*'
+  - 'dataset/csv/openhardwaremonitor/desktops/asus/intel.sabertooth/2020/**/*'
 
 2021:
   - 'dataset/csv/openhardwaremonitor/laptops/asus/gl553vd/2021/**/*'
