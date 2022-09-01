@@ -1,0 +1,10 @@
+desktops:
+  - 'dataset/csv/openhardwaremonitor/desktops/**/*'
+
+laptops:
+  - 'dataset/csv/openhardwaremonitor/laptops/**/*'
+
+openhardwaremonitor:
+  - 'dataset/csv/openhardwaremonitor/**/*'
+
+  
