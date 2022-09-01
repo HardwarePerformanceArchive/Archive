@@ -7,4 +7,22 @@ laptops:
 openhardwaremonitor:
   - 'dataset/csv/openhardwaremonitor/**/*'
 
-  
+csv:
+  - 'dataset/csv/**/*'
+
+2018:
+  - ''
+  - ''
+
+2019:
+  - ''
+
+2020:
+  - ''
+
+2021:
+  - ''
+
+2022:
+  - ''
+
