@@ -1,3 +1,8 @@
+# Dataset directory
+dataset:
+  - 'dataset/**/*'
+
+# Machine types
 desktops:
   - 'dataset/csv/openhardwaremonitor/desktops/**/*'
 
@@ -7,14 +12,20 @@ laptops:
 openhardwaremonitor:
   - 'dataset/csv/openhardwaremonitor/**/*'
 
-
+# formats
 csv:
   - 'dataset/csv/**/*'
 
-dataset:
-  - 'dataset/**/*'
+# formats
+xml:
+  - 'dataset/xml/**/*'
+
+# formats
+json:
+  - 'dataset/json/**/*'
 
 
+# Adding labels for years
 2018:
   - 'dataset/csv/openhardwaremonitor/laptops/asus/x556u/2018/**/*'
 
