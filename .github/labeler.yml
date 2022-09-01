@@ -12,18 +12,18 @@ laptops:
 openhardwaremonitor:
   - 'dataset/csv/openhardwaremonitor/**/*'
 
-# formats
+# file formats
 csv:
   - 'dataset/csv/**/*'
 
-# formats
 xml:
   - 'dataset/xml/**/*'
 
-# formats
 json:
   - 'dataset/json/**/*'
 
+documentation:
+  - 'docs/**/*'
 
 # Adding labels for years
 2018:
