@@ -7,8 +7,13 @@ laptops:
 openhardwaremonitor:
   - 'dataset/csv/openhardwaremonitor/**/*'
 
+
 csv:
   - 'dataset/csv/**/*'
+
+dataset:
+  - 'dataset/**/*'
+
 
 2018:
   - 'dataset/csv/openhardwaremonitor/laptops/asus/x556u/2018/**/*'
@@ -27,4 +32,3 @@ csv:
 
 2022:
   - 'dataset/csv/openhardwaremonitor/laptops/asus/gl553vd/2022/**/*'
-
