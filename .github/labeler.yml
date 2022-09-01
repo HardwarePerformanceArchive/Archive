@@ -25,6 +25,16 @@ json:
 documentation:
   - 'docs/**/*'
 
+automations:
+  - '.github/**/*'
+
+code:
+  - 'code/**/*'
+
+scripts:
+  - 'scripts/**/*'
+
+
 # Adding labels for years
 2018:
   - 'dataset/csv/openhardwaremonitor/laptops/asus/x556u/2018/**/*'
