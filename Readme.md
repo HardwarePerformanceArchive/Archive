@@ -58,11 +58,12 @@ Currently also working on having the data sorted & filtered by Year. together wi
 * [Kaggle](https://www.kaggle.com/), a place to download datasets and to play with the data. The [dataset](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance) can be downloaded or used with python though kaggle.
 * [Web Archive](https://archive.org/download/data.private.performance-release-06-09-2022)
 * Onedrive
-    * [Zip](https://1drv.ms/u/s!AnVSo6qhoQp5j8RjDo0Z3ozNKr9xXQ?e=H3qbAm), 
-    * [Tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j8RkosdL1iV1cWcG2g?e=ReCjNt)
+    * [Zip](https://1drv.ms/u/s!AnVSo6qhoQp5j8RjDo0Z3ozNKr9xXQ?e=H3qbAm)[^2], 
+    * [Tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j8RkosdL1iV1cWcG2g?e=ReCjNt)[^3]
 * Github 
-    * [as tar.gz](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.tar.gz) [^1][^2]
-    * [as a zip file](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.zip) [^1][^3]
+    * [as a zip file](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.zip) [^1][^2]
+    * [as tar.gz](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.tar.gz) [^1][^3]
+    
 
 
 [^1]: sha256sum ./filepath.txt
