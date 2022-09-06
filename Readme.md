@@ -38,14 +38,21 @@ The release of the dataset Version 1.0.3 can be found and downloaded at [Kaggle]
 
 
 ### Support
-Currently this repository only has support for CSV files. I am currently working on a solution. To have the files reformatted into other formats like json, xml and tsv.
+Currently this repository only has support for CSV[^7] files. I am currently working on a solution. To have the files reformatted into other formats like json, xml and tsv.
 
 Currently in development
 * ***Formats***
-    * JSON
-    * XML
-    * TSV
+    * JSON[^4]
+    * XML[^5]
+    * TSV[^6]
 
+[^4]: JavaScript Object Notation
+
+[^5]: eXtensible Markup Language
+
+[^6]: Tab-seperated values
+
+[^7]: Comma-seperated values
 
 * ***Code***
     * [MySQL](https://www.mysql.com/)
