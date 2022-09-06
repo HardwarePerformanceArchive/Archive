@@ -66,10 +66,12 @@ Currently also working on having the data sorted & filtered by Year. together wi
 
 ### Hashes
 * **Zip File**
-    SHA256: 8567f124aadb59688785130c8d9602de1e809621e74bf582711c8ec2007ff15a
+
+      SHA256: 8567f124aadb59688785130c8d9602de1e809621e74bf582711c8ec2007ff15a
 
 * **Tar.gz**
-    SHA256: 4682b2df535bd0ef7b0b3276cd4fb57f4a05d2a761aa3a50abeaf87b161f614f
+
+      SHA256: 4682b2df535bd0ef7b0b3276cd4fb57f4a05d2a761aa3a50abeaf87b161f614f
 
 [1^]: [Github](https://github.com/KentVejrupMadsen/data.performance/releases/tag/release-03-08-2022).
 
@@ -87,14 +89,15 @@ Currently also working on having the data sorted & filtered by Year. together wi
 
 
 ### Citation
-* DOI: 10.34740/kaggle/ds/2360009
-    * APA
+- **DOI**, 10.34740/kaggle/ds/2360009
+    
+     **APA**
 
           Kent vejrup Madsen. (2022).
           <i>Performance Data</i>
           [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2360009
 
-    * BibTeX
+    **BibTeX**
 
           @misc{
             kent vejrup madsen_2022,
