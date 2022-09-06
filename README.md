@@ -1,16 +1,13 @@
 ![Repository cover image for social networks](preview.jpg)
 [2022,
-Designermadsen,
-Deviantart](https://www.deviantart.com/designermadsen/art/Electronics-923444847)
+ Designermadsen,
+ Deviantart](https://www.deviantart.com/designermadsen/art/Electronics-923444847)
 
 
 # Hardware Performance Archive
-This repository contains data that are recorded hardware performance.
-The raw data is saved in CSV fileformat and is located in the dataset directory.
+This repository contains data that are recorded hardware performance. The raw data is saved in CSV fileformat and is located in the dataset directory.
 
-The release of the dataset Version 1.0.2 can be found and downloaded at
-[Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). 
-You're welcome to experiement with it in 'notebooks' and etc.
+The release of the dataset Version 1.0.2 can be found and downloaded at [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). You're welcome to experiement with it in 'notebooks' and etc.
 
 
 # Overview
@@ -25,8 +22,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Total size of the dataset
-* Datasets total size is: ( **5.94** GB )
-    * dataset directory: 5.94 GB
+* Datasets total size is: ( **6.58** GB )
+    * dataset directory: 6.58 GB
     * formats directory: 0.0 GB
         * JSON directory: 0.0 GB
         * XML Directory : 0.0 GB
