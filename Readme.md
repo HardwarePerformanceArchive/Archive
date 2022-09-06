@@ -61,20 +61,15 @@ Currently also working on having the data sorted & filtered by Year. together wi
     * [Zip](https://1drv.ms/u/s!AnVSo6qhoQp5j8RjDo0Z3ozNKr9xXQ?e=H3qbAm), 
     * [Tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j8RkosdL1iV1cWcG2g?e=ReCjNt)
 * Github 
-    * [as tar.gz](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.tar.gz) [^1]
-    * [as a zip file](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.zip) [^1]
+    * [as tar.gz](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.tar.gz) [^1][^2]
+    * [as a zip file](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.zip) [^1][^3]
 
 
 [^1]: sha256sum ./filepath.txt
 
-### Hashes
-* **Zip File**
+[^2]: sha256 hash checksum for zip 8567f124aadb59688785130c8d9602de1e809621e74bf582711c8ec2007ff15a
 
-      SHA256: 8567f124aadb59688785130c8d9602de1e809621e74bf582711c8ec2007ff15a
-
-* **Tar.gz**
-
-      SHA256: 4682b2df535bd0ef7b0b3276cd4fb57f4a05d2a761aa3a50abeaf87b161f614f
+[^3]: sha256 hash checksum for tar.gz 4682b2df535bd0ef7b0b3276cd4fb57f4a05d2a761aa3a50abeaf87b161f614f
 
 [1^]: [Github](https://github.com/KentVejrupMadsen/data.performance/releases/tag/release-03-08-2022).
 
