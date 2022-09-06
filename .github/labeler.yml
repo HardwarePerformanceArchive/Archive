@@ -49,7 +49,7 @@ year_2020:
   - 'dataset/csv/openhardwaremonitor/desktops/asus/intel.sabertooth/2020/**/*'
 
 year_2021:
-  - 'dataset/csv/openhardwaremonitor/laptops/asus/gl553vd/2021/**/*'
+  - 'dataset/csv/openhardwaremonitor/laptops/asus/gl533vd/2021/**/*'
 
 year_2022:
-  - 'dataset/csv/openhardwaremonitor/laptops/asus/gl553vd/2022/**/*'
+  - 'dataset/csv/openhardwaremonitor/laptops/asus/gl533vd/2022/**/*'
