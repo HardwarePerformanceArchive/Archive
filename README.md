@@ -7,18 +7,20 @@
 
 This repository contains data that are recorded hardware performance. The raw data is saved in CSV fileformat and is located in the dataset directory.
 
-The release of the dataset Version 1.0.2 can be found and downloaded at [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). You're welcome to experiement with it in 'notebooks' and etc.
+The release of the dataset Version 1.0.3 can be found and downloaded at [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Overview
 * Go to content description At [this location](docs/contents.md).
-* Current Version at: V1.0.2
+* Current Version at: V1.0.3
 * Size of dataset directory: 6.58 GB
-* Encoding of files in dataset directory: US-ASCII
-* First record at: 2018-09-17
-* Last record at: 2022-09-04
-* Dataset Record File format: CSV
-* Dataset exported to: None
+    * Dataset
+        * Encoding of files in dataset directory: US-ASCII
+        * First record at: 2018-09-17
+        * Last record at: 2022-09-04
+        * Dataset Record File format: CSV
+
+    * Formatted: None
 
 
 ### Total size of the dataset
@@ -36,8 +38,7 @@ The release of the dataset Version 1.0.2 can be found and downloaded at [Kaggle]
 
 
 ### Support
-Currently this repository only has support for CSV files. I am currently working on a solution. 
-To have the files reformatted into other formats like json, xml and tsv.
+Currently this repository only has support for CSV files. I am currently working on a solution. To have the files reformatted into other formats like json, xml and tsv.
 
 Currently in development
 * ***Formats***
@@ -47,8 +48,8 @@ Currently in development
 
 
 * ***Code***
-    * MySQL
-    * PostgreSQL
+    * [MySQL](https://www.mysql.com/)
+    * [PostgreSQL](https://www.postgresql.org/)
 
 
 Currently also working on having the data sorted & filtered by Year. together with making branches for it.
@@ -71,19 +72,14 @@ from
 
 ## Foot Notes
 * Keep in mind that this repository is a fork of the repository 
-[Private-Data-Performance](https://github.com/KentMadsen/Private-Data-Performance/commits/master),
-at my previous 
-[account](https://github.com/KentMadsen)
- as i have lost access to it.
-
-* Author: [Kent vejrup Madsen](https://github.com/kentVejrupMadsen/)
+[Private-Data-Performance](https://github.com/KentMadsen/Private-Data-Performance/commits/master), at my previous [account](https://github.com/KentMadsen) as i have lost access to it.
+* Author - [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
 * Contact: Kent.vejrup.madsen@designermadsen.dk
 * Changelog: [Changes](docs/changelog.md)
-
-* Copyright 2022 Kent vejrup Madsen
+* Copyright 2022 [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
     * Licenses
-        * Source Code License: [MIT License](docs/licenses/sourcecode_license.md)
-        * Dataset License: [Attribution 4.0 International](docs/licenses/dataset_license.md)
+        * [MIT - Source Code License](docs/licenses/sourcecode_license.md)
+        * [Dataset License - Attribution 4.0 International](docs/licenses/dataset_license.md)
 
 
 
