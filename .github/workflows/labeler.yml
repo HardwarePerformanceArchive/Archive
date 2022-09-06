@@ -1,9 +1,5 @@
-name: Pull Request Labeler
-on:
-  pull_request:
-    branches: [ "main" ]
-  push:
-    branches: [ "pending" ]
+name: Labeling
+on: [ pull_request ]
 
 jobs:
   triage:
