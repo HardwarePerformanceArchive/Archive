@@ -57,18 +57,16 @@ Currently also working on having the data sorted & filtered by Year. together wi
 ### Download & Others
 * [Kaggle](https://www.kaggle.com/), a place to download datasets and play with them. Performance data is setup as a [dataset](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance) and can be downloaded or used with code.
 
-* Download the current release
-[as tar.gz](https://github.com/KentVejrupMadsen/data.performance/archive/refs/tags/release-03-08-2022.tar.gz)
-or 
-[as a zip file](https://github.com/KentVejrupMadsen/data.performance/archive/refs/tags/release-03-08-2022.zip) 
-from 
-[Github](https://github.com/KentVejrupMadsen/data.performance/releases/tag/release-03-08-2022).
-    * SHA-256 for tar.gz: 
-    9a0820ca2f2721c2a179e852636ee15f92ff9fc0fd404d708644753a068ec48a
+* **Download** 
+    * [as tar.gz](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.tar.gz) hashes is as follows[^1]
 
-    * SHA-256 for zip:
-    6077517577d2b24c066dc474e3fe9659ab07642c1dfc64d2739f6fb53d2955d1
+          SHA-256:
 
+    * [as a zip file](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.zip) , hashes is as follows[^1]
+        
+          SHA-256: 
+
+[1^]: 
 
 ## Foot Notes
 * Keep in mind that this repository is a fork of the repository 
