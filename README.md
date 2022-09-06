@@ -1,27 +1,27 @@
+
+# Hardware Performance Archive
 ![Repository cover image for social networks](preview.jpg)
 [2022,
  Designermadsen,
  Deviantart](https://www.deviantart.com/designermadsen/art/Electronics-923444847)
 
-
-# Hardware Performance Archive
 This repository contains data that are recorded hardware performance. The raw data is saved in CSV fileformat and is located in the dataset directory.
 
 The release of the dataset Version 1.0.2 can be found and downloaded at [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). You're welcome to experiement with it in 'notebooks' and etc.
 
 
-# Overview
+## Overview
 * Go to content description At [this location](docs/contents.md).
 * Current Version at: V1.0.2
-* Size of dataset directory: 5.94 GB
+* Size of dataset directory: 6.58 GB
 * Encoding of files in dataset directory: US-ASCII
 * First record at: 2018-09-17
-* Last record at: 2022-08-02
+* Last record at: 2022-09-04
 * Dataset Record File format: CSV
 * Dataset exported to: None
 
 
-## Total size of the dataset
+### Total size of the dataset
 * Datasets total size is: ( **6.58** GB )
     * dataset directory: 6.58 GB
     * formats directory: 0.0 GB
@@ -30,13 +30,12 @@ The release of the dataset Version 1.0.2 can be found and downloaded at [Kaggle]
         * TSV Directory : 0.0 GB
 
 
-## Tools
-* Files logged with [OpenHardwareMonitor it can be downloaded here](https://openhardwaremonitor.org/downloads/), it's
-repository is [on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
+### Tools
+* Files logged with [OpenHardwareMonitor it can be downloaded here](https://openhardwaremonitor.org/downloads/), it's repository is [on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
 
 
 
-## Support
+### Support
 Currently this repository only has support for CSV files. I am currently working on a solution. 
 To have the files reformatted into other formats like json, xml and tsv.
 
@@ -54,9 +53,8 @@ Currently in development
 
 Currently also working on having the data sorted & filtered by Year. together with making branches for it.
 
-## Download & Others
-* Kaggle, 
-a place to download datasets and play with them. Performance data is setup as a [dataset](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance) and can be downloaded or used with code.
+### Download & Others
+* [Kaggle](https://www.kaggle.com/), a place to download datasets and play with them. Performance data is setup as a [dataset](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance) and can be downloaded or used with code.
 
 * Download the current release
 [as tar.gz](https://github.com/KentVejrupMadsen/data.performance/archive/refs/tags/release-03-08-2022.tar.gz)
@@ -110,6 +108,6 @@ at my previous
 
 
 ### Document
-* Original creation date is at: [31-01-2019](https://github.com/KentMadsen/Private-Data-Performance)
+* Original creation date is at: [31-01-2019](https://github.com/KentMadsen/Private-Data-Performance), Kent Madsen
 * Created at: 29-01-2020
-* Updated at: 03-08-2022
+* Updated at: 06-09-2022
