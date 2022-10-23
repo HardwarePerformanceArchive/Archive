@@ -25,6 +25,7 @@ You're welcome to experiement with it in 'notebooks' and etc.
 ### Total size of the dataset
 * Datasets total size is: ( **7.5** GB )
     * dataset directory: 7.5 GB
+        * CSV[^7]
     * formats directory: 0.0 GB
         * JSON[^4] directory: 0.0 GB
         * XML[^5] Directory : 0.0 GB
