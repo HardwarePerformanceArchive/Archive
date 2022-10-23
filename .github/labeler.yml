@@ -17,10 +17,13 @@ csv:
   - 'dataset/csv/**/*'
 
 xml:
-  - 'dataset/xml/**/*'
+  - 'dataset/formats/xml/**/*'
 
 json:
-  - 'dataset/json/**/*'
+  - 'dataset/formats/json/**/*'
+
+tsv:
+  - 'dataset/formats/tsv/**/*'
 
 documentation:
   - 'docs/**/*'
