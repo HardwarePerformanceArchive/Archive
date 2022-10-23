@@ -1,1 +1,1 @@
-/mnt/d/workspace/data/private/all/sourcecode_license.md
+../../sourcecode_license.md

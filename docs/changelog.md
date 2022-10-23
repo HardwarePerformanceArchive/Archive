@@ -1,1 +1,1 @@
-/mnt/d/workspace/data/private/all/changelog.md
+../changelog.md
