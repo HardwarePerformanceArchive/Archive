@@ -13,8 +13,10 @@ Will be done to make it easier to branch the data and
 the versioning from the given source it originates from.
 It means that the data will be seberated into sub-repositories 
 than to have it all collected into one repository.
-* Updated documentation so it's up to date
 
+* Updated documentation so it's up to date
+* Updated cover images
+* Renamed repository and changed the owner of the data from [KentVejrupMadsen](https://github.com/KentVejrupMadsen) to [Common Hardware Initiative](https://github.com/CHI-Performance)'s account
 
 ## Version - 1.0.3
 Have been adding data for a month, from my laptop. For 1.0.4[^1], will see if i can automate the versioning process. 
