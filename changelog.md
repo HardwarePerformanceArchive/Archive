@@ -1,5 +1,8 @@
 # Changes
-## Version - 1.0.4
+## Version - 1.0.5
+Have added data for about a month to GL553VD.
+* Updated documentation so it's up to date
+
 
 ## Version - 1.0.3
 Have been adding data for a month, from my laptop. For 1.0.4[^1], will see if i can automate the versioning process. 
