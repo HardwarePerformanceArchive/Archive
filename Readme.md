@@ -5,7 +5,7 @@
  Designermadsen,
  Deviantart](https://www.deviantart.com/designermadsen/art/Electronics-923444847)
 
-This repository contains data that are recorded hardware performance. The raw data is saved in CSV fileformat and is located in the dataset directory.
+This repository contains data that are recorded hardware performance. The raw data is saved in CSV[^7] fileformat and is located in the dataset directory.
 
 The release of the dataset Version 1.0.3 can be found and downloaded at [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). You're welcome to experiement with it in 'notebooks' and etc.
 
@@ -18,7 +18,7 @@ The release of the dataset Version 1.0.3 can be found and downloaded at [Kaggle]
         * Encoding of files in dataset directory: US-ASCII
         * First record at: 2018-09-17
         * Last record at: 2022-09-04
-        * Dataset Record File format: CSV
+        * Dataset Record File format: CSV[^7]
 
     * Formatted: None
 
@@ -27,9 +27,9 @@ The release of the dataset Version 1.0.3 can be found and downloaded at [Kaggle]
 * Datasets total size is: ( **6.58** GB )
     * dataset directory: 6.58 GB
     * formats directory: 0.0 GB
-        * JSON directory: 0.0 GB
-        * XML Directory : 0.0 GB
-        * TSV Directory : 0.0 GB
+        * JSON[^4] directory: 0.0 GB
+        * XML[^5] Directory : 0.0 GB
+        * TSV[^6] Directory : 0.0 GB
 
 
 ### Tools
@@ -38,13 +38,13 @@ The release of the dataset Version 1.0.3 can be found and downloaded at [Kaggle]
 
 
 ### Support
-Currently this repository only has support for CSV files. I am currently working on a solution. To have the files reformatted into other formats like json, xml and tsv.
+Currently this repository only has support for CSV[^7] files. I am currently working on a solution. To have the files reformatted into other formats like JSON[^4], XML[^5] and TSV[^6].
 
 Currently in development
 * ***Formats***
-    * JSON
-    * XML
-    * TSV
+    * JSON[^4]
+    * XML[^5]
+    * TSV[^6]
 
 
 * ***Code***
@@ -55,19 +55,14 @@ Currently in development
 Currently also working on having the data sorted & filtered by Year. together with making branches for it.
 
 ### Download & Others
-* [Kaggle](https://www.kaggle.com/), a place to download datasets and play with them. Performance data is setup as a [dataset](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance) and can be downloaded or used with code.
-
-* Download the current release
-[as tar.gz](https://github.com/KentVejrupMadsen/data.performance/archive/refs/tags/release-03-08-2022.tar.gz)
-or 
-[as a zip file](https://github.com/KentVejrupMadsen/data.performance/archive/refs/tags/release-03-08-2022.zip) 
-from 
-[Github](https://github.com/KentVejrupMadsen/data.performance/releases/tag/release-03-08-2022).
-    * SHA-256 for tar.gz: 
-    9a0820ca2f2721c2a179e852636ee15f92ff9fc0fd404d708644753a068ec48a
-
-    * SHA-256 for zip:
-    6077517577d2b24c066dc474e3fe9659ab07642c1dfc64d2739f6fb53d2955d1
+* [Kaggle](https://www.kaggle.com/), a place to download datasets and to play with the data. The [dataset](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance) can be downloaded or used with python though kaggle.
+* [Web Archive](https://archive.org/download/data.private.performance-release-06-09-2022)
+* Onedrive
+    * [Zip](https://1drv.ms/u/s!AnVSo6qhoQp5j8RjDo0Z3ozNKr9xXQ?e=H3qbAm)[^2], 
+    * [Tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j8RkosdL1iV1cWcG2g?e=ReCjNt)[^3]
+* [Github]([Github](https://github.com/KentVejrupMadsen/data.performance/releases/tag/release-03-08-2022)) 
+    * [as a zip file](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.zip) [^1] [^2]
+    * [as tar.gz](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.tar.gz) [^1] [^3]
 
 
 ## Foot Notes
@@ -84,14 +79,15 @@ from
 
 
 ### Citation
-* DOI: 10.34740/kaggle/ds/2360009
-    * APA
+- **DOI**, 10.34740/kaggle/ds/2360009
+    
+     **APA**
 
           Kent vejrup Madsen. (2022).
           <i>Performance Data</i>
           [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2360009
 
-    * BibTeX
+    **BibTeX**
 
           @misc{
             kent vejrup madsen_2022,
@@ -107,3 +103,17 @@ from
 * Original creation date is at: [31-01-2019](https://github.com/KentMadsen/Private-Data-Performance), Kent Madsen
 * Created at: 29-01-2020
 * Updated at: 06-09-2022
+
+[^1]: sha256sum ./filepath.txt
+
+[^2]: sha256 hash checksum for zip 8567f124aadb59688785130c8d9602de1e809621e74bf582711c8ec2007ff15a
+
+[^3]: sha256 hash checksum for tar.gz 4682b2df535bd0ef7b0b3276cd4fb57f4a05d2a761aa3a50abeaf87b161f614f
+
+[^4]: JavaScript Object Notation
+
+[^5]: eXtensible Markup Language
+
+[^6]: Tab-seperated values
+
+[^7]: Comma-seperated values
