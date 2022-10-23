@@ -1,4 +1,6 @@
 # Changes
+## Version - 1.0.4
+
 ## Version - 1.0.3
 Have been adding data for a month, from my laptop. For 1.0.4[^1], will see if i can automate the versioning process. 
 * Have created more structure to the dataset and documentation. 
