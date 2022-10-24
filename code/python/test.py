@@ -8,13 +8,19 @@ rows = 1
 
 index = []
 
+def index_row(column, idx):
+    global index
+    
+    pass
+
+
 def iterate_row(rows):
     global columns
 
     for idx in range(0, columns, 1):
         currentVariable = rows[idx]
 
-        print(currentVariable)
+        index_row(currentVariable, idx)
 
 
 def main():
