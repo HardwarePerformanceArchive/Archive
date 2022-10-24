@@ -1,32 +1,16 @@
 {
-    "dataset": 
-    {
-        "original":
+    "datasets":
+    [
         {
-            "path": "dataset/csv/openhardwaremonitor"
+            "name": "original",
+            "path": "./dataset/csv",
+            "config": "./configuration/original.configuration.json"
         },
 
-        "exports":
         {
-            "path": "dataset/formats",
-
-            "formats": 
-            {
-                "json":
-                {
-
-                },
-                
-                "tsv":
-                {
-
-                },
-
-                "xml":
-                {
-
-                }
-            }
+            "name": "exports", 
+            "path": "./dataset/formats",
+            "config": "./configuration/exports.configuration.json"
         }
-    }
+    ]
 }
