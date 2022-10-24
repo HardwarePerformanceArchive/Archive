@@ -1,4 +1,37 @@
 {
+    "github":
+    {
+        "owner": "CHI-Performance",
+        "url": "https://github.com/CHI-Performance",
+        "repository": "https://github.com/CHI-Performance/HardwarePerformanceArchive"
+    },
+
+    "authors": 
+    [
+        {
+            "name": "Kent Madsen",
+            "alternative_name": "Designermadsen",
+
+            "contact": "kent.vejrup.madsen@designermadsen.dk",
+            "account": "https://github.com/KentVejrupMadsen"
+        }
+    ],
+
+    "licenses":
+    [
+        {
+            "name": "Creative Commons Attribution 4.0 International",
+            "path": "./license.md",
+            "url": "https://github.com/CHI-Performance/HardwarePerformanceArchive/blob/main/license.md"
+        },
+
+        {
+            "name": "MIT License", 
+            "path": "./sourcecode_license.md",
+            "url": "https://github.com/CHI-Performance/HardwarePerformanceArchive/blob/main/sourcecode_license.md"
+        }
+    ],
+
     "datasets":
     [
         {
