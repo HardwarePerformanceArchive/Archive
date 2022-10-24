@@ -6,6 +6,15 @@
         "repository": "https://github.com/CHI-Performance/HardwarePerformanceArchive"
     },
 
+    "version":
+    {
+        "short": "v1.0.5",
+
+        "major": "1",
+        "minor":"0",
+        "patch": "5"
+    },
+
     "authors": 
     [
         {
