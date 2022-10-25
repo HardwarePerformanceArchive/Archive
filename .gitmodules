@@ -16,3 +16,6 @@
 [submodule "modules/raspberry.pi/4MB"]
 	path = modules/raspberry.pi/4MB
 	url = https://github.com/CHI-Performance/HardwarePerformance.raspberry-pi.4.git
+[submodule "modules/intel/nuc7jyb"]
+	path = modules/intel/nuc7jyb
+	url = https://github.com/CHI-Performance/HardwarePerformance.intel.NUC7JYB.git

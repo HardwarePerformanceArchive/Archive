@@ -5,24 +5,24 @@
             "name": "sabertooth",
             "brand": "asus",
 
-            "dataset": "F:\\archive\\dataset\\csv\\openhardwaremonitor\\platforms\\desktops\\asus\\intel.sabertooth",
-            "origin": "F:\\archive\\modules\\asus\\sabertooth\\dataset\\csv\\openhardwaremonitor\\asus\\stationary"
+            "dataset": ".\\dataset\\csv\\openhardwaremonitor\\platforms\\desktops\\asus\\intel.sabertooth",
+            "origin": ".\\modules\\asus\\sabertooth"
         },
 
         {
             "name": "gl553vd",
             "brand": "asus",
 
-            "dataset": "F:\\archive\\dataset\\csv\\openhardwaremonitor\\platforms\\laptops\\asus\\gl553vd",
-            "origin": "F:\\archive\\modules\\asus\\gl553vd\\dataset\\openhardwaremonitor\\csv"
+            "dataset": ".\\dataset\\csv\\openhardwaremonitor\\platforms\\laptops\\asus\\gl553vd",
+            "origin": ".\\modules\\asus\\gl553vd"
         },
 
         {
             "name": "x556u",
             "brand": "asus",
 
-            "dataset": "F:\\archive\\dataset\\csv\\openhardwaremonitor\\platforms\\laptops\\asus\\x556u",
-            "origin": "F:\\archive\\modules\\asus\\x556u\\dataset\\csv\\openhardwaremonitor"
+            "dataset": ".\\dataset\\csv\\openhardwaremonitor\\platforms\\laptops\\asus\\x556u",
+            "origin": ".\\modules\\asus\\x556u"
         },
 
         {
@@ -44,8 +44,7 @@
         {
             "name": "x8dtu",
             "brand": "supermicro",
-            
-            
+                        
             "dataset": null,
             "origin": null
         },
