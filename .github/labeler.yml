@@ -2,6 +2,8 @@
 dataset:
   - 'dataset/**/*'
 
+software:
+  - 'dataset/csv/**/*'
 
 openhardwaremonitor:
   - 'dataset/csv/openhardwaremonitor/**/*'
