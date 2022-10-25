@@ -4,5 +4,11 @@
     {
         "category": "date",
         "form": "year-month-day"
+    },
+    "by":
+    {
+        "type": "products",
+        "product-type": "laptops",
+        "identifier": "name"
     }
 }
