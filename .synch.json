@@ -1,0 +1,62 @@
+{
+    "datasets":
+    [
+        {
+            "name": "sabertooth",
+            "brand": "asus",
+
+            "dataset": "F:\\archive\\dataset\\csv\\openhardwaremonitor\\platforms\\desktops\\asus\\intel.sabertooth",
+            "origin": "F:\\archive\\modules\\asus\\sabertooth\\dataset\\csv\\openhardwaremonitor\\asus\\stationary"
+        },
+
+        {
+            "name": "gl553vd",
+            "brand": "asus",
+
+            "dataset": "F:\\archive\\dataset\\csv\\openhardwaremonitor\\platforms\\laptops\\asus\\gl553vd",
+            "origin": "F:\\archive\\modules\\asus\\gl553vd\\dataset\\openhardwaremonitor\\csv"
+        },
+
+        {
+            "name": "x556u",
+            "brand": "asus",
+
+            "dataset": "F:\\archive\\dataset\\csv\\openhardwaremonitor\\platforms\\laptops\\asus\\x556u",
+            "origin": "F:\\archive\\modules\\asus\\x556u\\dataset\\csv\\openhardwaremonitor"
+        },
+
+        {
+            "name": "NUC7JYB",
+            "brand": "intel",
+
+            "dataset": null,
+            "origin": null
+        },
+
+        {
+            "name": "ac2003",
+            "brand": "oneplus",
+            
+            "dataset": null,
+            "origin": null
+        },
+
+        {
+            "name": "x8dtu",
+            "brand": "supermicro",
+            
+            
+            "dataset": null,
+            "origin": null
+        },
+
+        {
+            "name": "model 4B",
+            "brand": "raspberry pi",
+            
+            "dataset": null,
+            "origin": null
+        }
+
+    ]   
+}
