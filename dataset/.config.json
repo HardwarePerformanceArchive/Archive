@@ -1,0 +1,14 @@
+{
+    "dataset": "full-set",
+    "name": "Hardware Performance Archive",
+    
+    "original": "csv",
+
+    "exports": 
+    {
+        "path": "exports",
+
+        "as_files": "formats",
+        "as_queries": "databases"
+    }
+}
