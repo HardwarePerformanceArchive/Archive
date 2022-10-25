@@ -1,3 +1,13 @@
+automations:
+  - '.github/**/*'
+
+# Scripts
+code:
+  - '.code/**/*'
+
+scripts:
+  - '.scripts/**/*'
+
 # Dataset directory
 dataset:
   - 'dataset/**/*'
@@ -34,18 +44,6 @@ tsv:
 # Base
 documentation:
   - 'docs/**/*'
-
-automations:
-  - '.github/**/*'
-
-
-# Scripts
-code:
-  - '.code/**/*'
-
-scripts:
-  - '.scripts/**/*'
-
 
 subsets:
   - 'modules/**/*'
