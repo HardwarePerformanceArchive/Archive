@@ -1,11 +1,17 @@
-import traverse
 import parent
+import archive
+
 import os
+
 
 def main():
     p = parent.ParentRoot( 'all', os.getcwd() )
-    
-    print(p.execute())
+    rp = p.execute()
+    orgArchive = rp + '\\dataset\\csv\\openhardwaremonitor'
+
+    arc = archive.Archive(orgArchive)
+
+
 
     
     

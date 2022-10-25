@@ -1,5 +1,7 @@
 import os
-from os import path
+from os \
+    import path
+
 
 # Finds the root of a child directory.
 class ParentRoot:
@@ -29,4 +31,25 @@ class ParentRoot:
 
     def increment(self):
         self.iteration = self.iteration + 1
+        return self.iteration
+
+    def get_name(self):
+        return self.name
+
+    def get_child(self):
+        return self.child
+
+    def get_iteration(self):
+        return self.iteration
+
+    def set_name(self, name):
+        self.name = name
+        return self.name
+
+    def set_child(self, child):
+        self.child = child
+        return self.name
+
+    def set_iteration(self, number):
+        self.iteration = number
         return self.iteration
