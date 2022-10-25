@@ -1,0 +1,8 @@
+{
+    "category": "machine",
+    "children": 
+    {
+        "category": "date",
+        "form": "year-month-day"
+    }
+}
