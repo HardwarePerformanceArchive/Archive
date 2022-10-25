@@ -1,4 +1,6 @@
-from traverse import TravelAndListFiles
+from traverse \
+    import TravelAndListFiles
+
 
 class Archive:
     def __init__(self, datasetPath):
