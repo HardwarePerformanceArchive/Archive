@@ -13,3 +13,6 @@
 [submodule "modules/supermicro/x8dtu"]
 	path = modules/supermicro/x8dtu
 	url = https://github.com/CHI-Performance/HardwarePerformance.supermicro.x8dtu
+[submodule "modules/raspberry.pi/4MB"]
+	path = modules/raspberry.pi/4MB
+	url = https://github.com/CHI-Performance/HardwarePerformance.raspberry-pi.4.git
