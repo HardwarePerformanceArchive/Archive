@@ -1,31 +1,32 @@
-
 # Hardware Performance Archive
-![Repository cover image for social networks](preview.jpg)
-[2022,
- Designermadsen,
- Deviantart](https://www.deviantart.com/designermadsen/art/Electronics-923444847)
+![Repository cover image for social networks](docs/resources/3.jpg)
 
-This repository contains data that are recorded hardware performance. The raw data is saved in CSV[^7] fileformat and is located in the dataset directory.
+This repository contains data that are recorded hardware performance. The raw data is saved in CSV[^7] 
+fileformat and is located in the dataset directory.
 
-The release of the dataset Version 1.0.3 can be found and downloaded at [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). You're welcome to experiement with it in 'notebooks' and etc.
+The release of the dataset Version 1.0.5 can be found and downloaded at 
+[Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). 
+You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Overview
 * Go to content description At [this location](docs/contents.md).
-* Current Version at: V1.0.3
-* Size of dataset directory: 6.58 GB
+* Current Version at: V1.0.5
+* Size of dataset directory: 7.72 GB
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
         * First record at: 2018-09-17
-        * Last record at: 2022-09-04
+        * Last record at: 2022-11-01
         * Dataset Record File format: CSV[^7]
 
     * Formatted: None
 
 
 ### Total size of the dataset
-* Datasets total size is: ( **6.58** GB )
-    * dataset directory: 6.58 GB
+* Datasets total size is: ( **7.72** GB )
+    * dataset directory: 7.72 GB
+        * CSV[^7]
+        
     * formats directory: 0.0 GB
         * JSON[^4] directory: 0.0 GB
         * XML[^5] Directory : 0.0 GB
@@ -33,7 +34,10 @@ The release of the dataset Version 1.0.3 can be found and downloaded at [Kaggle]
 
 
 ### Tools
-* Files logged with [OpenHardwareMonitor it can be downloaded here](https://openhardwaremonitor.org/downloads/), it's repository is [on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
+* Files logged with 
+[OpenHardwareMonitor it can be downloaded here](https://openhardwaremonitor.org/downloads/), 
+it's repository is 
+[on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
 
 
 
@@ -65,7 +69,7 @@ Currently also working on having the data sorted & filtered by Year. together wi
     * [as tar.gz](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.tar.gz) [^1] [^3]
 
 
-## Foot Notes
+## Appendices
 * Keep in mind that this repository is a fork of the repository 
 [Private-Data-Performance](https://github.com/KentMadsen/Private-Data-Performance/commits/master), at my previous [account](https://github.com/KentMadsen) as i have lost access to it.
 * Author - [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
@@ -102,8 +106,10 @@ Currently also working on having the data sorted & filtered by Year. together wi
 ### Document
 * Original creation date is at: [31-01-2019](https://github.com/KentMadsen/Private-Data-Performance), Kent Madsen
 * Created at: 29-01-2020
-* Updated at: 06-09-2022
+* Updated at: 02-11-2022
 
+
+## Foot Notes
 [^1]: sha256sum ./filepath.txt
 
 [^2]: sha256 hash checksum for zip 8567f124aadb59688785130c8d9602de1e809621e74bf582711c8ec2007ff15a

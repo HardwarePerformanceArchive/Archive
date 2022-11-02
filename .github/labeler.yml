@@ -1,6 +1,23 @@
+automations:
+  - '.github/**/*'
+
+# Scripts
+code:
+  - '.code/**/*'
+
+scripts:
+  - '.scripts/**/*'
+
 # Dataset directory
 dataset:
   - 'dataset/**/*'
+
+software:
+  - 'dataset/csv/**/*'
+
+openhardwaremonitor:
+  - 'dataset/csv/openhardwaremonitor/**/*'
+
 
 # Machine types
 desktops:
@@ -9,47 +26,24 @@ desktops:
 laptops:
   - 'dataset/csv/openhardwaremonitor/laptops/**/*'
 
-openhardwaremonitor:
-  - 'dataset/csv/openhardwaremonitor/**/*'
 
 # file formats
 csv:
   - 'dataset/csv/**/*'
 
 xml:
-  - 'dataset/xml/**/*'
+  - 'dataset/exports/formats/xml/**/*'
 
 json:
-  - 'dataset/json/**/*'
+  - 'dataset/exports/formats/json/**/*'
 
+tsv:
+  - 'dataset/exports/formats/tsv/**/*'
+
+
+# Base
 documentation:
   - 'docs/**/*'
 
-automations:
-  - '.github/**/*'
-
-code:
-  - 'code/**/*'
-
-scripts:
-  - 'scripts/**/*'
-
-
-# Adding labels for years
-year_2018:
-  - 'dataset/csv/openhardwaremonitor/laptops/asus/x556u/2018/**/*'
-
-year_2019:
-  - 'dataset/csv/openhardwaremonitor/laptops/asus/x556u/2019/**/*'
-  - 'dataset/csv/openhardwaremonitor/desktops/asus/intel.sabertooth/2019/**/*'
-
-
-year_2020:
-  - 'dataset/csv/openhardwaremonitor/laptops/asus/gl553vd/2020/**/*'
-  - 'dataset/csv/openhardwaremonitor/desktops/asus/intel.sabertooth/2020/**/*'
-
-year_2021:
-  - 'dataset/csv/openhardwaremonitor/laptops/asus/gl553vd/2021/**/*'
-
-year_2022:
-  - 'dataset/csv/openhardwaremonitor/laptops/asus/gl553vd/2022/**/*'
+subsets:
+  - 'modules/**/*'

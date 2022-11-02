@@ -1,0 +1,16 @@
+{
+    "datasets":
+    [
+        {
+            "name": "original",
+            "path": "./dataset/csv",
+            "config": "./.configuration/original.configuration.json"
+        },
+
+        {
+            "name": "exports", 
+            "path": "./dataset/formats",
+            "config": "./.configuration/exports.configuration.json"
+        }
+    ]
+}

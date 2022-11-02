@@ -1,0 +1,21 @@
+[submodule "modules/asus/gl553vd"]
+	path = modules/asus/gl553vd
+	url = https://github.com/CHI-Performance/HardwarePerformance.asus.gl553vd
+[submodule "modules/asus/x556u"]
+	path = modules/asus/x556u
+	url = https://github.com/CHI-Performance/HardwarePerformance.asus.x556u
+[submodule "modules/oneplus/ac2003"]
+	path = modules/oneplus/ac2003
+	url = https://github.com/CHI-Performance/HardwarePerformance.oneplus.ac2003
+[submodule "modules/asus/sabertooth"]
+	path = modules/asus/sabertooth
+	url = https://github.com/CHI-Performance/HardwarePerformance.asus.sabertooth
+[submodule "modules/supermicro/x8dtu"]
+	path = modules/supermicro/x8dtu
+	url = https://github.com/CHI-Performance/HardwarePerformance.supermicro.x8dtu
+[submodule "modules/raspberry.pi/4MB"]
+	path = modules/raspberry.pi/4MB
+	url = https://github.com/CHI-Performance/HardwarePerformance.raspberry-pi.4.git
+[submodule "modules/intel/nuc7jyb"]
+	path = modules/intel/nuc7jyb
+	url = https://github.com/CHI-Performance/HardwarePerformance.intel.NUC7JYB.git
