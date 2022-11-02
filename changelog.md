@@ -27,7 +27,8 @@ Have been adding data for a month, from my laptop. For 1.0.4[^1], will see if i 
 * Added directory for netdata data, so it's ready-
 * Added workflows to automate the process and make pull request searcheble.
 
-## Footnotes
+## Appendices
+### Footnotes
 [^1]: Next version is at 03 October 2022.
 [^2]: Release is at 01 November 2022
 [^3]: Release is at 01 January, 2023 
