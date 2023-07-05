@@ -1,0 +1,67 @@
+# Default for all
+* text=auto eol=lf
+
+# Documentation
+*.md text diff=markdown eol=crlf
+*.tex text diff=tex
+*.pdf -text
+
+# Scripts
+*.sh text diff=sh
+*.ps1 text diff=ps1 eol=crlf
+
+# Code for backend
+*.php text diff=php
+*.shtml text diff=shtml
+*.py text diff=python
+*.cs text diff=csharp
+*.java text diff=java
+*.rs text diff=rust
+
+# Frontend Files
+*.html text diff=html
+*.htm text diff=html
+*.xhtml text diff=html
+*.dhtml text diff=html
+
+## Style sheets
+*.css text diff=css
+*.scss text diff=scss
+
+## JavaScript / TypeScript
+*.js text diff=js
+*.ts text diff=ts
+
+# Typical used data formats
+*.csv text diff=csv
+*.xml text diff=xml
+*.json text diff=json
+
+# Image Formats
+*.svg text eol=lf diff=xml
+
+*.bmp binary diff=exif
+*.png binary diff=exif
+*.tga binary diff=exif
+*.jpg binary diff=exif
+*.jpeg binary diff=exif
+*.webp binary diff=exif
+*.gif binary diff=exif
+
+# used for workflows
+*.yaml text diff=yaml
+
+# Project
+*.vcproj text eol=crlf
+
+# Misc
+*.txt text
+
+# Git attributes
+.gitignore text diff=gitignore export-ignore
+.gitattributes text diff=gitattributes export-ignore
+.gitmodules text diff=gitmodules export-ignore
+
+Changelog.md export-ignore
+
+/.github export-ignore
