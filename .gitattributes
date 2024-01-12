@@ -2,7 +2,7 @@
 * text=auto eol=lf
 
 # Documentation
-*.md text diff=markdown eol=crlf
+*.md text diff=markdown eol=crlf export-ignore
 *.tex text diff=tex
 
 # Typical used data formats
@@ -34,8 +34,6 @@
 .gitignore text diff=gitignore export-ignore
 .gitattributes text diff=gitattributes export-ignore
 .gitmodules text diff=gitmodules export-ignore
-
-Changelog.md export-ignore
 
 /.scripts export-ignore
 /.github export-ignore
