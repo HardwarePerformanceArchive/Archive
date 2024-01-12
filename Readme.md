@@ -108,7 +108,7 @@ as i have lost access to it.
 
 
 ### Document
-* Original creation date is at: [31-01-2019](https://github.com/KentMadsen/Private-Data-Performance), Kent Madsen
+* Original creation date is at: [31-01-2019][OLD_REPOSITORY], Kent Madsen
 * Created at: 29-01-2020
 * Updated at: 12-01-2024
 
@@ -133,3 +133,5 @@ as i have lost access to it.
 
 [MITLicense]: sourcecode_license.md
 [ATT4INTLicense]: License.md  
+
+[OLD_REPOSITORY]: https://github.com/KentMadsen/Private-Data-Performance
