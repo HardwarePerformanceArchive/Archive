@@ -56,7 +56,7 @@ Currently in development
 
 Currently also working on having the data sorted & filtered by Year. together with making branches for it.
 
-### Download & Others
+### Download At
 * [Kaggle][KAGGLE_DATASET_LOCATION] a place to download datasets and to play with data. Which can be though a python terminal or their website.
 
 * [Web Archive][WEBARCHIVE_DATASET_LOCATION]
