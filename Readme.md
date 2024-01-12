@@ -129,9 +129,9 @@ as i have lost access to it.
 [^7]: Comma-seperated values
 
 <!-- Shortcuts -->
-[CoverImage]: docs/resources/3.jpg
+[CoverImage]:docs/resources/3.jpg
 
-[MITLicense]: sourcecode_license.md
-[ATT4INTLicense]: License.md  
+[MITLicense]:sourcecode_license.md
+[ATT4INTLicense]:License.md  
 
-[OLD_REPOSITORY]: https://github.com/KentMadsen/Private-Data-Performance
+[OLD_REPOSITORY]:https://github.com/KentMadsen/Private-Data-Performance
