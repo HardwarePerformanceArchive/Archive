@@ -1,7 +1,18 @@
-#
+# Ignore Scripts & Code
 *.php
-*.shtml
 *.py
 *.cs 
 *.java 
 *.rs 
+
+*.shtml
+*.html 
+*.htm 
+*.xhtml 
+*.dhtml 
+
+*.css
+*.scss 
+
+*.js 
+*.ts 

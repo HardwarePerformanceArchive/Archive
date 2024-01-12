@@ -10,20 +10,6 @@
 *.sh text diff=sh
 *.ps1 text diff=ps1 eol=crlf
 
-# Frontend Files
-*.html text diff=html
-*.htm text diff=html
-*.xhtml text diff=html
-*.dhtml text diff=html
-
-## Style sheets
-*.css text diff=css
-*.scss text diff=scss
-
-## JavaScript / TypeScript
-*.js text diff=js
-*.ts text diff=ts
-
 # Typical used data formats
 *.csv text diff=csv
 *.xml text diff=xml
