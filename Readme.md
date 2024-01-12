@@ -79,10 +79,10 @@ as i have lost access to it.
 * Author - [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
 * Contact: Kent.vejrup.madsen@designermadsen.dk
 * Changelog: [Changes](docs/changelog.md)
-* Copyright 2022 [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
+* Copyright 2024 [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
     * Licenses
-        * [MIT - Source Code License](sourcecode_license.md)
-        * [Dataset License - Attribution 4.0 International](License.md)
+        * [MIT - Source Code License][MITLicense]
+        * [Dataset License - Attribution 4.0 International][ATT4INTLicense]
 
 
 
@@ -130,3 +130,6 @@ as i have lost access to it.
 
 <!-- Shortcuts -->
 [CoverImage]: docs/resources/3.jpg
+
+[MITLicense]: sourcecode_license.md
+[ATT4INTLicense]: License.md  
