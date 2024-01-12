@@ -66,9 +66,9 @@ a place to download datasets and to play with data. Which can be though a python
     * [Zip](https://1drv.ms/u/s!AnVSo6qhoQp5j8RjDo0Z3ozNKr9xXQ?e=H3qbAm)[^2], 
     * [Tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j8RkosdL1iV1cWcG2g?e=ReCjNt)[^3]
 
-* [Github]([Github](https://github.com/KentVejrupMadsen/data.performance/releases/tag/release-03-08-2022)) 
-    * [as a zip file](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.zip) [^1] [^2]
-    * [as tar.gz](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.tar.gz) [^1] [^3]
+* [Github][GITHUB_DATASET_RELEASE_LOCATION]
+    * [as a zip file][GITHUB_DATASET_LOCATION_ZIP] [^1] [^2]
+    * [as tar.gz][GITHUB_DATASET_LOCATION_TAR_GZ] [^1] [^3]
 
 
 ## Appendices
@@ -134,8 +134,13 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 
 [OLD_REPOSITORY]:https://github.com/KentMadsen/Private-Data-Performance
 
+<!-- Donwload Dataset Shortcut -->
 [KAGGLE_DATASET_LOCATION]: https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance
 [WEBARCHIVE_DATASET_LOCATION]: https://archive.org/download/data.private.performance-release-06-09-2022
+
+[GITHUB_DATASET_RELEASE_LOCATION]: https://github.com/Hardware-Performance-Archive/Archive/releases/tag/release-09-01-2024
+[GITHUB_DATASET_LOCATION_TAR_GZ]: https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.tar.gz
+[GITHUB_DATASET_LOCATION_ZIP]: https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.zip
 
 [PREVIOUS_ACCOUNT]:https://github.com/KentMadsen
 [CURRENT_ACCOUNT]:https://github.com/KentVejrupMadsen
