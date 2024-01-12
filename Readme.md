@@ -35,8 +35,7 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 ### Tools
 * Files logged with 
-[OpenHardwareMonitor it can be downloaded here][DOWNLOAD_OPENHARDWARE_MONITOR], 
-it's repository is at: [on github][OPENHARDWARE_MONITOR_GITHUB]
+[OpenHardwareMonitor it can be downloaded here][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository is at: [on github][OPENHARDWARE_MONITOR_GITHUB]
 
 
 
@@ -67,12 +66,12 @@ Currently also working on having the data sorted & filtered by Year. together wi
     * [TAR.GZ][WEBARCHIVE_DATASET_TAR_GZ]
 
 * Onedrive
-    * [Zip](https://1drv.ms/u/s!AnVSo6qhoQp5j8RjDo0Z3ozNKr9xXQ?e=H3qbAm)[^2], 
-    * [Tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j8RkosdL1iV1cWcG2g?e=ReCjNt)[^3]
+    * [ZIP](https://1drv.ms/u/s!AnVSo6qhoQp5j8RjDo0Z3ozNKr9xXQ?e=H3qbAm)[^2], 
+    * [TAR.GZ](https://1drv.ms/u/s!AnVSo6qhoQp5j8RkosdL1iV1cWcG2g?e=ReCjNt)[^3]
 
 * [Github][GITHUB_DATASET_RELEASE_LOCATION]
-    * [as a zip file][GITHUB_DATASET_LOCATION_ZIP] [^1] [^2]
-    * [as tar.gz][GITHUB_DATASET_LOCATION_TAR_GZ] [^1] [^3]
+    * [ZIP][GITHUB_DATASET_LOCATION_ZIP] [^1] [^2]
+    * [TAR.GZ][GITHUB_DATASET_LOCATION_TAR_GZ] [^1] [^3]
 
 
 ## Appendices
@@ -153,6 +152,10 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 [GITHUB_DATASET_RELEASE_LOCATION]: https://github.com/Hardware-Performance-Archive/Archive/releases/tag/release-12.01.2024-1.fix
 [GITHUB_DATASET_LOCATION_TAR_GZ]: https://github.com/Hardware-Performance-Archive/Archive/archive/refs/tags/release-12.01.2024-1.fix.tar.gz
 [GITHUB_DATASET_LOCATION_ZIP]: https://github.com/Hardware-Performance-Archive/Archive/archive/refs/tags/release-12.01.2024-1.fix.zip
+
+[ONEDRIVE_ZIP_LOCATION]:
+[ONEDRIVE_TAR_GZ_LOCATION]:
+
 
 [PREVIOUS_ACCOUNT]: https://github.com/KentMadsen
 [CURRENT_ACCOUNT]: https://github.com/KentVejrupMadsen
