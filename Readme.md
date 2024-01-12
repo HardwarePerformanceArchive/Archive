@@ -72,9 +72,8 @@ a place to download datasets and to play with data. Which can be though a python
 
 
 ## Appendices
-* Keep in mind that this repository is a fork of the repository 
-[Private-Data-Performance][OLD_REPOSITORY], 
-at my previous [account](https://github.com/KentMadsen) 
+* Keep in mind that this repository is a fork of the repository [Private-Data-Performance][OLD_REPOSITORY], 
+at my previous [account][PREVIOUS_ACCOUNT]
 as i have lost access to it.
 * Author - [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
 * Contact: Kent.vejrup.madsen@designermadsen.dk
@@ -135,3 +134,4 @@ as i have lost access to it.
 [ATT4INTLicense]:License.md  
 
 [OLD_REPOSITORY]:https://github.com/KentMadsen/Private-Data-Performance
+[PREVIOUS_ACCOUNT]:https://github.com/KentMadsen 
