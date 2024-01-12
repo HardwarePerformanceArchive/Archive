@@ -62,6 +62,8 @@ Currently also working on having the data sorted & filtered by Year. together wi
 
 * [Web Archive][WEBARCHIVE_DATASET_LOCATION]
     * [ZIP][WEBARCHIVE_DATASET_ZIP]
+        * [CONTENT][WEBARCHIVE_DATASET_ZIP_CONTENT]
+
     * [TAR.GZ][WEBARCHIVE_DATASET_TAR_GZ]
 
 * Onedrive
@@ -144,6 +146,8 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 
 [WEBARCHIVE_DATASET_LOCATION]: https://archive.org/download/data.private.performance-release-06-09-2022
 [WEBARCHIVE_DATASET_ZIP]: https://archive.org/download/hardware-performance-archive-12.01.2024/Archive-release-12.01.2024-1.fix.zip
+[WEBARCHIVE_DATASET_ZIP_CONTENT]: https://ia601207.us.archive.org/view_archive.php?archive=/13/items/hardware-performance-archive-12.01.2024/Archive-release-12.01.2024-1.fix.zip
+
 [WEBARCHIVE_DATASET_TAR_GZ]: https://archive.org/download/hardware-performance-archive-12.01.2024/Archive-release-12.01.2024-1.fix.tar.gz
 
 [GITHUB_DATASET_RELEASE_LOCATION]: https://github.com/Hardware-Performance-Archive/Archive/releases/tag/release-12.01.2024-1.fix
