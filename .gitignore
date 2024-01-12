@@ -1,1 +1,7 @@
 #
+*.php
+*.shtml
+*.py
+*.cs 
+*.java 
+*.rs 

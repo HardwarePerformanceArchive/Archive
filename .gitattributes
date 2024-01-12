@@ -10,14 +10,6 @@
 *.sh text diff=sh
 *.ps1 text diff=ps1 eol=crlf
 
-# Code for backend
-*.php text diff=php
-*.shtml text diff=shtml
-*.py text diff=python
-*.cs text diff=csharp
-*.java text diff=java
-*.rs text diff=rust
-
 # Frontend Files
 *.html text diff=html
 *.htm text diff=html
