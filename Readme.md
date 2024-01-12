@@ -11,8 +11,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 ## Overview
 * Go to content description At [this location](docs/contents.md).
-* Current Version at: V1.0.5
-* Size of dataset directory: 7.72 GB
+* Current Version at: V1.0.6
+* Size of dataset directory: 16.7 GB
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
         * First record at: 2018-09-17
@@ -59,11 +59,14 @@ Currently in development
 Currently also working on having the data sorted & filtered by Year. together with making branches for it.
 
 ### Download & Others
-* [Kaggle](https://www.kaggle.com/), a place to download datasets and to play with the data. The [dataset](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance) can be downloaded or used with python though kaggle.
+* [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance) 
+a place to download datasets and to play with data. Which can be though a python terminal or their website.
 * [Web Archive](https://archive.org/download/data.private.performance-release-06-09-2022)
+
 * Onedrive
     * [Zip](https://1drv.ms/u/s!AnVSo6qhoQp5j8RjDo0Z3ozNKr9xXQ?e=H3qbAm)[^2], 
     * [Tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j8RkosdL1iV1cWcG2g?e=ReCjNt)[^3]
+
 * [Github]([Github](https://github.com/KentVejrupMadsen/data.performance/releases/tag/release-03-08-2022)) 
     * [as a zip file](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.zip) [^1] [^2]
     * [as tar.gz](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.tar.gz) [^1] [^3]
