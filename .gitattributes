@@ -37,3 +37,4 @@
 
 /.scripts export-ignore
 /.github export-ignore
+/docs export-ignore
