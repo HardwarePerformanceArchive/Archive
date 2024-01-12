@@ -1,5 +1,5 @@
 # Hardware Performance Archive
-![Repository cover image for social networks](docs/resources/3.jpg)
+![Repository cover image for social networks][CoverImage]
 
 This repository contains data that are recorded hardware performance. The raw data is saved in CSV[^7] 
 fileformat and is located in the dataset directory.
@@ -81,8 +81,8 @@ as i have lost access to it.
 * Changelog: [Changes](docs/changelog.md)
 * Copyright 2022 [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
     * Licenses
-        * [MIT - Source Code License](docs/licenses/sourcecode_license.md)
-        * [Dataset License - Attribution 4.0 International](docs/licenses/dataset_license.md)
+        * [MIT - Source Code License](sourcecode_license.md)
+        * [Dataset License - Attribution 4.0 International](License.md)
 
 
 
@@ -127,3 +127,6 @@ as i have lost access to it.
 [^6]: Tab-seperated values
 
 [^7]: Comma-seperated values
+
+<!-- Shortcuts -->
+[CoverImage]: docs/resources/3.jpg
