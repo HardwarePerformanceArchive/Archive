@@ -73,7 +73,9 @@ a place to download datasets and to play with data. Which can be though a python
 
 ## Appendices
 * Keep in mind that this repository is a fork of the repository 
-[Private-Data-Performance](https://github.com/KentMadsen/Private-Data-Performance/commits/master), at my previous [account](https://github.com/KentMadsen) as i have lost access to it.
+[Private-Data-Performance](https://github.com/KentMadsen/Private-Data-Performance/commits/master), 
+at my previous [account](https://github.com/KentMadsen) 
+as i have lost access to it.
 * Author - [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
 * Contact: Kent.vejrup.madsen@designermadsen.dk
 * Changelog: [Changes](docs/changelog.md)
