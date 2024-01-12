@@ -27,9 +27,8 @@
 *.gif binary diff=exif
 
 # used for workflows
-*.yaml text diff=yaml
-*.yml text diff=yml
-
+*.yaml text diff=yaml export-ignore
+*.yml text diff=yml export-ignore
 
 # Git attributes
 .gitignore text diff=gitignore export-ignore
