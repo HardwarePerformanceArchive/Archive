@@ -4,7 +4,7 @@
 This repository contains data that are recorded hardware performance. The raw data is saved in CSV[^7] 
 fileformat and is located in the dataset directory.
 
-The release of the dataset Version 1.0.5 can be found and downloaded at 
+The release of the latest version can be found and downloaded at 
 [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). 
 You're welcome to experiement with it in 'notebooks' and etc.
 
@@ -16,15 +16,15 @@ You're welcome to experiement with it in 'notebooks' and etc.
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
         * First record at: 2018-09-17
-        * Last record at: 2022-11-01
+        * Last record at: 2024-01-06
         * Dataset Record File format: CSV[^7]
 
     * Formatted: None
 
 
 ### Total size of the dataset
-* Datasets total size is: ( **7.72** GB )
-    * dataset directory: 7.72 GB
+* Datasets total size is: ( **16.7** GB )
+    * dataset directory: 16.7 GB
         * CSV[^7]
         
     * formats directory: 0.0 GB
@@ -36,8 +36,7 @@ You're welcome to experiement with it in 'notebooks' and etc.
 ### Tools
 * Files logged with 
 [OpenHardwareMonitor it can be downloaded here](https://openhardwaremonitor.org/downloads/), 
-it's repository is 
-[on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
+it's repository is at: [on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
 
 
 
