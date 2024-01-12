@@ -58,9 +58,11 @@ Currently in development
 Currently also working on having the data sorted & filtered by Year. together with making branches for it.
 
 ### Download & Others
-* [Kaggle][KAGGLE_DATASET_LOCATION] 
-a place to download datasets and to play with data. Which can be though a python terminal or their website.
+* [Kaggle][KAGGLE_DATASET_LOCATION] a place to download datasets and to play with data. Which can be though a python terminal or their website.
+
 * [Web Archive][WEBARCHIVE_DATASET_LOCATION]
+    * [ZIP][WEBARCHIVE_DATASET_ZIP]
+    * [TAR.GZ][WEBARCHIVE_DATASET_TAR_GZ]
 
 * Onedrive
     * [Zip](https://1drv.ms/u/s!AnVSo6qhoQp5j8RjDo0Z3ozNKr9xXQ?e=H3qbAm)[^2], 
@@ -127,29 +129,32 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 [^7]: Comma-seperated values
 
 <!-- Shortcuts -->
-[MYSQL_URL]:https://www.mysql.com/
+[MYSQL_URL]: https://www.mysql.com/
 [POSTGRESQL_URL]: https://www.postgresql.org/
 
-[Cover_Image]:docs/resources/3.jpg
+[Cover_Image]: docs/resources/3.jpg
 
-[MIT_License]:sourcecode_license.md
-[ATT4INT_License]:License.md  
+[MIT_License]: sourcecode_license.md
+[ATT4INT_License]: License.md  
 
-[OLD_REPOSITORY]:https://github.com/KentMadsen/Private-Data-Performance
+[OLD_REPOSITORY]: https://github.com/KentMadsen/Private-Data-Performance
 
 <!-- Donwload Dataset Shortcut -->
 [KAGGLE_DATASET_LOCATION]: https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance
+
 [WEBARCHIVE_DATASET_LOCATION]: https://archive.org/download/data.private.performance-release-06-09-2022
+[WEBARCHIVE_DATASET_ZIP]: https://archive.org/download/hardware-performance-archive-12.01.2024/Archive-release-12.01.2024-1.fix.zip
+[WEBARCHIVE_DATASET_TAR_GZ]: https://archive.org/download/hardware-performance-archive-12.01.2024/Archive-release-12.01.2024-1.fix.tar.gz
 
-[GITHUB_DATASET_RELEASE_LOCATION]: https://github.com/Hardware-Performance-Archive/Archive/releases/tag/release-09-01-2024
-[GITHUB_DATASET_LOCATION_TAR_GZ]: https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.tar.gz
-[GITHUB_DATASET_LOCATION_ZIP]: https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.zip
+[GITHUB_DATASET_RELEASE_LOCATION]: https://github.com/Hardware-Performance-Archive/Archive/releases/tag/release-12.01.2024-1.fix
+[GITHUB_DATASET_LOCATION_TAR_GZ]: https://github.com/Hardware-Performance-Archive/Archive/archive/refs/tags/release-12.01.2024-1.fix.tar.gz
+[GITHUB_DATASET_LOCATION_ZIP]: https://github.com/Hardware-Performance-Archive/Archive/archive/refs/tags/release-12.01.2024-1.fix.zip
 
-[PREVIOUS_ACCOUNT]:https://github.com/KentMadsen
-[CURRENT_ACCOUNT]:https://github.com/KentVejrupMadsen
+[PREVIOUS_ACCOUNT]: https://github.com/KentMadsen
+[CURRENT_ACCOUNT]: https://github.com/KentVejrupMadsen
 
-[CHANGELOG_LOCATION]:docs/changelog.md
-[CONTENT_LOCATION]:docs/contents.md
+[CHANGELOG_LOCATION]: docs/changelog.md
+[CONTENT_LOCATION]: docs/contents.md
 
-[DOWNLOAD_OPENHARDWARE_MONITOR]:https://openhardwaremonitor.org/downloads/
-[OPENHARDWARE_MONITOR_GITHUB]:https://github.com/openhardwaremonitor/openhardwaremonitor
+[DOWNLOAD_OPENHARDWARE_MONITOR]: https://openhardwaremonitor.org/downloads/
+[OPENHARDWARE_MONITOR_GITHUB]: https://github.com/openhardwaremonitor/openhardwaremonitor
