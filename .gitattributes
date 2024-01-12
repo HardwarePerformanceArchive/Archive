@@ -37,4 +37,5 @@
 
 Changelog.md export-ignore
 
+/.scripts export-ignore
 /.github export-ignore
