@@ -51,8 +51,8 @@ Currently in development
 
 
 * ***Code***
-    * [MySQL](https://www.mysql.com/)
-    * [PostgreSQL](https://www.postgresql.org/)
+    * [MySQL][MYSQL_URL]
+    * [PostgreSQL][POSTGRESQL_URL]
 
 
 Currently also working on having the data sorted & filtered by Year. together with making branches for it.
@@ -127,6 +127,9 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 [^7]: Comma-seperated values
 
 <!-- Shortcuts -->
+[MYSQL_URL]:https://www.mysql.com/
+[POSTGRESQL_URL]: https://www.postgresql.org/
+
 [Cover_Image]:docs/resources/3.jpg
 
 [MIT_License]:sourcecode_license.md
