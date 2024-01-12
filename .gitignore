@@ -16,3 +16,9 @@
 
 *.js 
 *.ts 
+
+# Document Types
+*.pdf
+
+# Project Types
+*.vcproj

@@ -4,7 +4,6 @@
 # Documentation
 *.md text diff=markdown eol=crlf
 *.tex text diff=tex
-*.pdf -text
 
 # Scripts
 *.sh text diff=sh
@@ -14,6 +13,7 @@
 *.csv text diff=csv
 *.xml text diff=xml
 *.json text diff=json
+*.txt text
 
 # Image Formats
 *.svg text eol=lf diff=xml
@@ -28,12 +28,8 @@
 
 # used for workflows
 *.yaml text diff=yaml
+*.yml text diff=yml
 
-# Project
-*.vcproj text eol=crlf
-
-# Misc
-*.txt text
 
 # Git attributes
 .gitignore text diff=gitignore export-ignore
