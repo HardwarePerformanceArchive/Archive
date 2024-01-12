@@ -1,16 +1,16 @@
 # Hardware Performance Archive
-![Repository cover image for social networks][CoverImage]
+![Repository cover image for social networks][Cover_Image]
 
 This repository contains data that are recorded hardware performance. The raw data is saved in CSV[^7] 
 fileformat and is located in the dataset directory.
 
 The release of the latest version can be found and downloaded at 
-[Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). 
+[Kaggle][KAGGLE_DATASET_LOCATION]. 
 You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Overview
-* Go to content description At [this location](docs/contents.md).
+* Go to content description At [this location][CONTENT_LOCATION].
 * Current Version at: V1.0.6
 * Size of dataset directory: 16.7 GB
     * Dataset
@@ -35,8 +35,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 ### Tools
 * Files logged with 
-[OpenHardwareMonitor it can be downloaded here](https://openhardwaremonitor.org/downloads/), 
-it's repository is at: [on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
+[OpenHardwareMonitor it can be downloaded here][DOWNLOAD_OPENHARDWARE_MONITOR], 
+it's repository is at: [on github][OPENHARDWARE_MONITOR_GITHUB]
 
 
 
@@ -58,9 +58,9 @@ Currently in development
 Currently also working on having the data sorted & filtered by Year. together with making branches for it.
 
 ### Download & Others
-* [Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance) 
+* [Kaggle][KAGGLE_DATASET_LOCATION] 
 a place to download datasets and to play with data. Which can be though a python terminal or their website.
-* [Web Archive](https://archive.org/download/data.private.performance-release-06-09-2022)
+* [Web Archive][WEBARCHIVE_DATASET_LOCATION]
 
 * Onedrive
     * [Zip](https://1drv.ms/u/s!AnVSo6qhoQp5j8RjDo0Z3ozNKr9xXQ?e=H3qbAm)[^2], 
@@ -73,15 +73,14 @@ a place to download datasets and to play with data. Which can be though a python
 
 ## Appendices
 * Keep in mind that this repository is a fork of the repository [Private-Data-Performance][OLD_REPOSITORY], 
-at my previous [account][PREVIOUS_ACCOUNT]
-as i have lost access to it.
-* Author - [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
+at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
+* Author: [Kent vejrup Madsen][CURRENT_ACCOUNT]
 * Contact: Kent.vejrup.madsen@designermadsen.dk
-* Changelog: [Changes](docs/changelog.md)
-* Copyright 2024 [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
+* Changelog: [Changes][CHANGELOG_LOCATION]
+* Copyright 2024 [Kent vejrup Madsen][CURRENT_ACCOUNT]
     * Licenses
-        * [MIT - Source Code License][MITLicense]
-        * [Dataset License - Attribution 4.0 International][ATT4INTLicense]
+        * [MIT - Source Code License][MIT_License]
+        * [Dataset License - Attribution 4.0 International][ATT4INT_License]
 
 
 
@@ -128,10 +127,21 @@ as i have lost access to it.
 [^7]: Comma-seperated values
 
 <!-- Shortcuts -->
-[CoverImage]:docs/resources/3.jpg
+[Cover_Image]:docs/resources/3.jpg
 
-[MITLicense]:sourcecode_license.md
-[ATT4INTLicense]:License.md  
+[MIT_License]:sourcecode_license.md
+[ATT4INT_License]:License.md  
 
 [OLD_REPOSITORY]:https://github.com/KentMadsen/Private-Data-Performance
-[PREVIOUS_ACCOUNT]:https://github.com/KentMadsen 
+
+[KAGGLE_DATASET_LOCATION]: https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance
+[WEBARCHIVE_DATASET_LOCATION]: https://archive.org/download/data.private.performance-release-06-09-2022
+
+[PREVIOUS_ACCOUNT]:https://github.com/KentMadsen
+[CURRENT_ACCOUNT]:https://github.com/KentVejrupMadsen
+
+[CHANGELOG_LOCATION]:docs/changelog.md
+[CONTENT_LOCATION]:docs/contents.md
+
+[DOWNLOAD_OPENHARDWARE_MONITOR]:https://openhardwaremonitor.org/downloads/
+[OPENHARDWARE_MONITOR_GITHUB]:https://github.com/openhardwaremonitor/openhardwaremonitor
