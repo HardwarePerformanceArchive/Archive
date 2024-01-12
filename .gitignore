@@ -1,1 +1,24 @@
-#
+# Ignore Scripts & Code
+*.php
+*.py
+*.cs 
+*.java 
+*.rs 
+
+*.shtml
+*.html 
+*.htm 
+*.xhtml 
+*.dhtml 
+
+*.css
+*.scss 
+
+*.js 
+*.ts 
+
+# Document Types
+*.pdf
+
+# Project Types
+*.vcproj

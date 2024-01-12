@@ -4,38 +4,12 @@
 # Documentation
 *.md text diff=markdown eol=crlf
 *.tex text diff=tex
-*.pdf -text
-
-# Scripts
-*.sh text diff=sh
-*.ps1 text diff=ps1 eol=crlf
-
-# Code for backend
-*.php text diff=php
-*.shtml text diff=shtml
-*.py text diff=python
-*.cs text diff=csharp
-*.java text diff=java
-*.rs text diff=rust
-
-# Frontend Files
-*.html text diff=html
-*.htm text diff=html
-*.xhtml text diff=html
-*.dhtml text diff=html
-
-## Style sheets
-*.css text diff=css
-*.scss text diff=scss
-
-## JavaScript / TypeScript
-*.js text diff=js
-*.ts text diff=ts
 
 # Typical used data formats
 *.csv text diff=csv
 *.xml text diff=xml
 *.json text diff=json
+*.txt text
 
 # Image Formats
 *.svg text eol=lf diff=xml
@@ -49,13 +23,12 @@
 *.gif binary diff=exif
 
 # used for workflows
-*.yaml text diff=yaml
+*.yaml text diff=yaml export-ignore
+*.yml text diff=yml export-ignore
 
-# Project
-*.vcproj text eol=crlf
-
-# Misc
-*.txt text
+# Scripts
+*.sh text diff=shexport-ignore
+*.ps1 text diff=ps1 eol=crlf export-ignore
 
 # Git attributes
 .gitignore text diff=gitignore export-ignore
