@@ -1,30 +1,30 @@
 # Hardware Performance Archive
-![Repository cover image for social networks](docs/resources/3.jpg)
+![Repository cover image for social networks][Cover_Image]
 
 This repository contains data that are recorded hardware performance. The raw data is saved in CSV[^7] 
 fileformat and is located in the dataset directory.
 
-The release of the dataset Version 1.0.5 can be found and downloaded at 
-[Kaggle](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance). 
+The release of the latest version can be found and downloaded at 
+[Kaggle][KAGGLE_DATASET_LOCATION]. 
 You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Overview
-* Go to content description At [this location](docs/contents.md).
-* Current Version at: V1.0.5
-* Size of dataset directory: 7.72 GB
+* Go to content description At [this location][CONTENT_LOCATION].
+* Current Version at: V1.0.6
+* Size of dataset directory: 16.7 GB
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
         * First record at: 2018-09-17
-        * Last record at: 2022-11-01
+        * Last record at: 2024-01-06
         * Dataset Record File format: CSV[^7]
 
     * Formatted: None
 
 
 ### Total size of the dataset
-* Datasets total size is: ( **7.72** GB )
-    * dataset directory: 7.72 GB
+* Datasets total size is: ( **16.7** GB )
+    * dataset directory: 16.7 GB
         * CSV[^7]
         
     * formats directory: 0.0 GB
@@ -35,9 +35,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 ### Tools
 * Files logged with 
-[OpenHardwareMonitor it can be downloaded here](https://openhardwaremonitor.org/downloads/), 
-it's repository is 
-[on github](https://github.com/openhardwaremonitor/openhardwaremonitor)
+[OpenHardwareMonitor it can be downloaded here][DOWNLOAD_OPENHARDWARE_MONITOR], 
+it's repository is at: [on github][OPENHARDWARE_MONITOR_GITHUB]
 
 
 
@@ -52,33 +51,36 @@ Currently in development
 
 
 * ***Code***
-    * [MySQL](https://www.mysql.com/)
-    * [PostgreSQL](https://www.postgresql.org/)
+    * [MySQL][MYSQL_URL]
+    * [PostgreSQL][POSTGRESQL_URL]
 
 
 Currently also working on having the data sorted & filtered by Year. together with making branches for it.
 
 ### Download & Others
-* [Kaggle](https://www.kaggle.com/), a place to download datasets and to play with the data. The [dataset](https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance) can be downloaded or used with python though kaggle.
-* [Web Archive](https://archive.org/download/data.private.performance-release-06-09-2022)
+* [Kaggle][KAGGLE_DATASET_LOCATION] 
+a place to download datasets and to play with data. Which can be though a python terminal or their website.
+* [Web Archive][WEBARCHIVE_DATASET_LOCATION]
+
 * Onedrive
     * [Zip](https://1drv.ms/u/s!AnVSo6qhoQp5j8RjDo0Z3ozNKr9xXQ?e=H3qbAm)[^2], 
     * [Tar.gz](https://1drv.ms/u/s!AnVSo6qhoQp5j8RkosdL1iV1cWcG2g?e=ReCjNt)[^3]
-* [Github]([Github](https://github.com/KentVejrupMadsen/data.performance/releases/tag/release-03-08-2022)) 
-    * [as a zip file](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.zip) [^1] [^2]
-    * [as tar.gz](https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.tar.gz) [^1] [^3]
+
+* [Github][GITHUB_DATASET_RELEASE_LOCATION]
+    * [as a zip file][GITHUB_DATASET_LOCATION_ZIP] [^1] [^2]
+    * [as tar.gz][GITHUB_DATASET_LOCATION_TAR_GZ] [^1] [^3]
 
 
 ## Appendices
-* Keep in mind that this repository is a fork of the repository 
-[Private-Data-Performance](https://github.com/KentMadsen/Private-Data-Performance/commits/master), at my previous [account](https://github.com/KentMadsen) as i have lost access to it.
-* Author - [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
+* Keep in mind that this repository is a fork of the repository [Private-Data-Performance][OLD_REPOSITORY], 
+at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
+* Author: [Kent vejrup Madsen][CURRENT_ACCOUNT]
 * Contact: Kent.vejrup.madsen@designermadsen.dk
-* Changelog: [Changes](docs/changelog.md)
-* Copyright 2022 [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
+* Changelog: [Changes][CHANGELOG_LOCATION]
+* Copyright 2024 [Kent vejrup Madsen][CURRENT_ACCOUNT]
     * Licenses
-        * [MIT - Source Code License](docs/licenses/sourcecode_license.md)
-        * [Dataset License - Attribution 4.0 International](docs/licenses/dataset_license.md)
+        * [MIT - Source Code License][MIT_License]
+        * [Dataset License - Attribution 4.0 International][ATT4INT_License]
 
 
 
@@ -104,9 +106,9 @@ Currently also working on having the data sorted & filtered by Year. together wi
 
 
 ### Document
-* Original creation date is at: [31-01-2019](https://github.com/KentMadsen/Private-Data-Performance), Kent Madsen
+* Original creation date is at: [31-01-2019][OLD_REPOSITORY], Kent Madsen
 * Created at: 29-01-2020
-* Updated at: 02-11-2022
+* Updated at: 12-01-2024
 
 
 ## Foot Notes
@@ -123,3 +125,31 @@ Currently also working on having the data sorted & filtered by Year. together wi
 [^6]: Tab-seperated values
 
 [^7]: Comma-seperated values
+
+<!-- Shortcuts -->
+[MYSQL_URL]:https://www.mysql.com/
+[POSTGRESQL_URL]: https://www.postgresql.org/
+
+[Cover_Image]:docs/resources/3.jpg
+
+[MIT_License]:sourcecode_license.md
+[ATT4INT_License]:License.md  
+
+[OLD_REPOSITORY]:https://github.com/KentMadsen/Private-Data-Performance
+
+<!-- Donwload Dataset Shortcut -->
+[KAGGLE_DATASET_LOCATION]: https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance
+[WEBARCHIVE_DATASET_LOCATION]: https://archive.org/download/data.private.performance-release-06-09-2022
+
+[GITHUB_DATASET_RELEASE_LOCATION]: https://github.com/Hardware-Performance-Archive/Archive/releases/tag/release-09-01-2024
+[GITHUB_DATASET_LOCATION_TAR_GZ]: https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.tar.gz
+[GITHUB_DATASET_LOCATION_ZIP]: https://github.com/KentVejrupMadsen/data.private.performance/archive/refs/tags/release-06-09-2022.zip
+
+[PREVIOUS_ACCOUNT]:https://github.com/KentMadsen
+[CURRENT_ACCOUNT]:https://github.com/KentVejrupMadsen
+
+[CHANGELOG_LOCATION]:docs/changelog.md
+[CONTENT_LOCATION]:docs/contents.md
+
+[DOWNLOAD_OPENHARDWARE_MONITOR]:https://openhardwaremonitor.org/downloads/
+[OPENHARDWARE_MONITOR_GITHUB]:https://github.com/openhardwaremonitor/openhardwaremonitor
