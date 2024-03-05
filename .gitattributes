@@ -1,19 +1,15 @@
 # Default for all
 * text=auto eol=lf
-
 # Documentation
 *.md text diff=markdown eol=crlf export-ignore
 *.tex text diff=tex
-
 # Typical used data formats
 *.csv text diff=csv
 *.xml text diff=xml
 *.json text diff=json
 *.txt text
-
 # Image Formats
 *.svg text eol=lf diff=xml
-
 *.bmp binary diff=exif
 *.png binary diff=exif
 *.tga binary diff=exif
@@ -21,20 +17,18 @@
 *.jpeg binary diff=exif
 *.webp binary diff=exif
 *.gif binary diff=exif
-
 # used for workflows
 *.yaml text diff=yaml export-ignore
 *.yml text diff=yml export-ignore
-
 # Scripts
 *.sh text diff=shexport-ignore
 *.ps1 text diff=ps1 eol=crlf export-ignore
-
 # Git attributes
 .gitignore text diff=gitignore export-ignore
 .gitattributes text diff=gitattributes export-ignore
 .gitmodules text diff=gitmodules export-ignore
-
 /.scripts export-ignore
 /.github export-ignore
 /docs export-ignore
+*.lfs filter=lfs diff=lfs merge=lfs -text
+*.lfs.* filter=lfs diff=lfs merge=lfs -text
