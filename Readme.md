@@ -11,20 +11,20 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 ## Overview
 * Go to content description At [this location][CONTENT_LOCATION].
-* Current Version at: V1.0.6
-* Size of dataset directory: 16.7 GB
+* Current Version at: V1.0.7
+* Size of dataset directory: 17.2 GB
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
         * First record at: 2018-09-17
-        * Last record at: 2024-01-06
+        * Last record at: 2024-03-26
         * Dataset Record File format: CSV[^7]
 
     * Formatted: None
 
 
 ### Total size of the dataset
-* Datasets total size is: ( **16.7** GB )
-    * dataset directory: 16.7 GB
+* Datasets total size is: ( **17.2** GB )
+    * dataset directory: 17.2 GB
         * CSV[^7]
         
     * formats directory: 0.0 GB
@@ -34,13 +34,19 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ### Tools
-* Files logged with 
-[OpenHardwareMonitor it can be downloaded here][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository is at: [on github][OPENHARDWARE_MONITOR_GITHUB]
+#### Logging Tool
+* Default logger:
+    * [Libre Hardware Monitor][LIBRE_HARDWARE_MONITOR_GITHUB]
+
+* Files logged with: 
+    * (2024 - ?) [LibreHardwareMonitor][DOWNLOAD_LIBRE_HARDWARE_MONITOR], It's repository on [Github][LIBRE_HARDWARE_MONITOR_GITHUB]
+    * (2018 - 2024) [OpenHardwareMonitor][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository on [Github][OPENHARDWARE_MONITOR_GITHUB]
 
 
 
 ### Support
-Currently this repository only has support for CSV[^7] files. I am currently working on a solution. To have the files reformatted into other formats like JSON[^4], XML[^5] and TSV[^6].
+Currently this repository only has support for CSV[^7] files. 
+I am currently working on a solution. To have the files reformatted into other formats like JSON[^4], XML[^5] and TSV[^6].
 
 Currently in development
 * ***Formats***
@@ -80,7 +86,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 * Author: [Kent vejrup Madsen][CURRENT_ACCOUNT]
 * Contact: Kent.vejrup.madsen@designermadsen.dk
 * Changelog: [Changes][CHANGELOG_LOCATION]
-* Copyright 2024 [Kent vejrup Madsen][CURRENT_ACCOUNT]
+* Copyright 2018 - 2024 [Kent vejrup Madsen][CURRENT_ACCOUNT]
     * Licenses
         * [MIT - Source Code License][MIT_License]
         * [Dataset License - Attribution 4.0 International][ATT4INT_License]
@@ -109,9 +115,9 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 
 
 ### Document
-* Original creation date is at: [31-01-2019][OLD_REPOSITORY], Kent Madsen
+* Original creation date is at: [31-01-2019][OLD_REPOSITORY], [Kent Madsen][PREVIOUS_ACCOUNT]
 * Created at: 29-01-2020
-* Updated at: 12-01-2024
+* Updated at: 27-03-2024
 
 
 ## Foot Notes
@@ -165,4 +171,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 [CONTENT_LOCATION]: docs/contents.md
 
 [DOWNLOAD_OPENHARDWARE_MONITOR]: https://openhardwaremonitor.org/downloads/
+[DOWNLOAD_LIBRE_HARDWARE_MONITOR]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/tag/v0.9.3
+
 [OPENHARDWARE_MONITOR_GITHUB]: https://github.com/openhardwaremonitor/openhardwaremonitor
+[LIBRE_HARDWARE_MONITOR_GITHUB]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
