@@ -1,4 +1,4 @@
-# License
+# Licenses
 Copyright 2018 - 2024, [Hardware Performance Archive][GROUP_ACCOUNT]
 
 ## Source Code Licenses
@@ -11,7 +11,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## DataSet Licenses
-### Attribution 4.0 International
+### Creative Commons Attribution 4.0
+#### International
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
 Creative Commons public licenses does not create a lawyer-client or
@@ -63,7 +64,7 @@ exhaustive, and do not form part of our licenses.
      wiki.creativecommons.org/Considerations_for_licensees
 
 
-### Creative Commons Attribution 4.0 International Public License
+#### Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons
