@@ -36,10 +36,11 @@ You're welcome to experiement with it in 'notebooks' and etc.
 ### Tools
 Tools used by the repository and where to find them.
 
-#### Logging Tools
-* Default logger:
+#### Defaults
+* Logger:
     * [Libre Hardware Monitor][LIBRE_HARDWARE_MONITOR_GITHUB]
 
+#### Logging Tools
 * Files logged with: 
     * (2024 - ?) [LibreHardwareMonitor][DOWNLOAD_LIBRE_HARDWARE_MONITOR], It's repository on [Github][LIBRE_HARDWARE_MONITOR_GITHUB]
     * (2018 - 2024) [OpenHardwareMonitor][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository on [Github][OPENHARDWARE_MONITOR_GITHUB]
