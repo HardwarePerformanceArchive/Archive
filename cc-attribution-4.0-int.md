@@ -1,10 +1,7 @@
 # License
-<<<<<<< HEAD:License.md
-# Attribution 4.0 International
-=======
-## Attribution 4.0 International
->>>>>>> development:cc-attribution-4.0-int.md
+Copyright 2018 - 2024, Hardware Performance Archive
 
+## Attribution 4.0 International
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
 Creative Commons public licenses does not create a lawyer-client or
