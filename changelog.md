@@ -1,11 +1,14 @@
 # Changes
 ## Version - 1.0.7
 Current changes logged:
+* Addition of performance data to the dataset
+    * For a new laptop
+
 * Updating the documentation
     * Updated Readme.md
     * Changes to copyright
 
-* Change of the default tool, instead of OpenhardwareMonitor, i moved towards using LibreHardwareMonitor, instead as a temperary solution. Due to OpenHardwareMonitor is deprecated and therefor not updated anymore.
+* Change of the default tool, instead of OpenhardwareMonitor, i moved towards using LibreHardwareMonitor, instead as a temperary solution. Due to OpenHardwareMonitor is deprecated and therefor not updated anymore
 
 * Updated cover image.
 
