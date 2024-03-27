@@ -33,8 +33,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
         * TSV[^6] Directory : 0.0 GB
 
 
-### Tools
-#### Logging Tool
+### Tools used.
+#### Logging Tools
 * Default logger:
     * [Libre Hardware Monitor][LIBRE_HARDWARE_MONITOR_GITHUB]
 
