@@ -12,6 +12,8 @@ Current changes logged:
 
 * Files larger than 80 mb will be moved to LFS.
 
+* Updated licenses files.
+
 ## Version - 1.0.6
 * Addition of performance data to the dataset.
     * Added a directory for a new laptop. ASUS TUF A15.
