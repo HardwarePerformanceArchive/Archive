@@ -1,5 +1,14 @@
 # Changes
+## Version - 1.0.7
+Current changes logged:
+* Updating the documentation
+    * Updated Readme.md
+    * Changes to copyright
+
+* Change of the default tool, instead of OpenhardwareMonitor, i moved towards using LibreHardwareMonitor instead as a temperary solution. As OpenhardwareMonitor is deprecated and not updated anymore.
+
 ## Version - 1.0.6
+Addition of performance data to the dataset.
 
 ## Version - 1.0.5
 Have added data for about a month, recorded from my GL553VD laptop. 
