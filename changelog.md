@@ -11,10 +11,8 @@ Current changes logged:
 * Updated cover image.
 
 ## Version - 1.0.6
-Addition of performance data to the dataset.
-
-* Addition of performance data to the dataset
-    * For a new laptop
+* Addition of performance data to the dataset.
+    * Added a directory for a new laptop. ASUS TUF A15
 
 ## Version - 1.0.5
 Have added data for about a month, recorded from my GL553VD laptop. 
