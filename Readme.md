@@ -23,8 +23,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ### Total size of the dataset
-* Datasets total size is: ( **16.7** GB )
-    * dataset directory: 16.7 GB
+* Datasets total size is: ( **17.2** GB )
+    * dataset directory: 17.2 GB
         * CSV[^7]
         
     * formats directory: 0.0 GB
