@@ -33,7 +33,9 @@ You're welcome to experiement with it in 'notebooks' and etc.
         * TSV[^6] Directory : 0.0 GB
 
 
-### Tool usage
+### Tools
+Tools used by the repository and where to find them.
+
 #### Logging Tools
 * Default logger:
     * [Libre Hardware Monitor][LIBRE_HARDWARE_MONITOR_GITHUB]
