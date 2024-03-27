@@ -17,7 +17,7 @@ Current changes logged:
     * Added a directory for a new laptop. ASUS TUF A15.
 
 * Made changes to which files should be exported. 
-    * Documents has been removed from exports as they will be changed often.
+    * Documents has been removed from exports as they will be changed often. Making them old and 'out of date' really quickly.
 
 ## Version - 1.0.5
 Have added data for about a month, recorded from my GL553VD laptop. 
