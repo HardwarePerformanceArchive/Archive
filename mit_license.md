@@ -1,4 +1,4 @@
-# Source Code
+# License
 ## MIT License
 Copyright 2018 - 2024, Hardware Performance Archive
 
