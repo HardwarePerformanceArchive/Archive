@@ -10,9 +10,14 @@ Current changes logged:
 
 * Updated cover image.
 
+* Files larger than 80 mb will be moved to LFS.
+
 ## Version - 1.0.6
 * Addition of performance data to the dataset.
     * Added a directory for a new laptop. ASUS TUF A15.
+
+* Made changes to which files should be exported. 
+    * Documents has been removed from exports as they will be changed often.
 
 ## Version - 1.0.5
 Have added data for about a month, recorded from my GL553VD laptop. 
