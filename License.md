@@ -63,7 +63,7 @@ exhaustive, and do not form part of our licenses.
      wiki.creativecommons.org/Considerations_for_licensees
 
 
-#### Creative Commons Attribution 4.0 International Public License
+### Creative Commons Attribution 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons
