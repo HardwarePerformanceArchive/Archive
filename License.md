@@ -1,4 +1,4 @@
-# License
+# Licenses
 Copyright 2018 - 2024, [Hardware Performance Archive][GROUP_ACCOUNT]
 
 ## Source Code Licenses
