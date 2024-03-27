@@ -5,7 +5,7 @@ Current changes logged:
     * Updated Readme.md
     * Changes to copyright
 
-* Change of the default tool, instead of OpenhardwareMonitor, i moved towards using LibreHardwareMonitor instead as a temperary solution. As OpenhardwareMonitor is deprecated and not updated anymore.
+* Change of the default tool, instead of OpenhardwareMonitor, i moved towards using LibreHardwareMonitor, instead as a temperary solution. Due to OpenHardwareMonitor is deprecated and therefor not updated anymore.
 
 ## Version - 1.0.6
 Addition of performance data to the dataset.
