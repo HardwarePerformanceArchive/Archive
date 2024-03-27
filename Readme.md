@@ -139,7 +139,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 [MYSQL_URL]: https://www.mysql.com/
 [POSTGRESQL_URL]: https://www.postgresql.org/
 
-[Cover_Image]: docs/resources/3.jpg
+[Cover_Image]: docs/resources/covers/800x600.jpg
 
 [MIT_License]: sourcecode_license.md
 [ATT4INT_License]: License.md  

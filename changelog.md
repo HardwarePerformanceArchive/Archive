@@ -7,6 +7,8 @@ Current changes logged:
 
 * Change of the default tool, instead of OpenhardwareMonitor, i moved towards using LibreHardwareMonitor, instead as a temperary solution. Due to OpenHardwareMonitor is deprecated and therefor not updated anymore.
 
+* Updated cover image.
+
 ## Version - 1.0.6
 Addition of performance data to the dataset.
 
