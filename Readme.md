@@ -34,10 +34,13 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ### Tools
-#### Logging Tool
-* Default logger:
+Tools used by the repository and where to find them.
+
+#### Defaults
+* Logger:
     * [Libre Hardware Monitor][LIBRE_HARDWARE_MONITOR_GITHUB]
 
+#### Logging Tools
 * Files logged with: 
     * (2024 - ?) [LibreHardwareMonitor][DOWNLOAD_LIBRE_HARDWARE_MONITOR], It's repository on [Github][LIBRE_HARDWARE_MONITOR_GITHUB]
     * (2018 - 2024) [OpenHardwareMonitor][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository on [Github][OPENHARDWARE_MONITOR_GITHUB]
@@ -117,7 +120,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 ### Document
 * Original creation date is at: [31-01-2019][OLD_REPOSITORY], [Kent Madsen][PREVIOUS_ACCOUNT]
 * Created at: 29-01-2020
-* Updated at: 27-03-2024
+* Updated at: 28-03-2024
 
 
 ## Foot Notes
@@ -141,7 +144,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 
 [Cover_Image]: docs/resources/covers/800x600.jpg
 
-[MIT_License]: sourcecode_license.md
+[MIT_License]: License.md
 [ATT4INT_License]: License.md  
 
 [OLD_REPOSITORY]: https://github.com/KentMadsen/Private-Data-Performance
