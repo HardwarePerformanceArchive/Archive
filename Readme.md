@@ -12,19 +12,19 @@ You're welcome to experiement with it in 'notebooks' and etc.
 ## Overview
 * Go to content description At [this location][CONTENT_LOCATION].
 * Current Version at: V1.0.7
-* Size of dataset directory: 17.2 GB
+* Size of dataset directory: 29.9 GB
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
         * First record at: 2018-09-17
-        * Last record at: 2024-03-26
+        * Last record at: 2024-10-01
         * Dataset Record File format: CSV[^7]
 
     * Formatted: None
 
 
 ### Total size of the dataset
-* Datasets total size is: ( **17.2** GB )
-    * dataset directory: 17.2 GB
+* Datasets total size is: ( **29.9** GB )
+    * dataset directory: 29.9 GB
         * CSV[^7]
         
     * formats directory: 0.0 GB
@@ -120,7 +120,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 ### Document
 * Original creation date is at: [31-01-2019][OLD_REPOSITORY], [Kent Madsen][PREVIOUS_ACCOUNT]
 * Created at: 29-01-2020
-* Updated at: 28-03-2024
+* Updated at: 02-10-2024
 
 
 ## Foot Notes
