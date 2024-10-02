@@ -1,5 +1,25 @@
 # Changes
+## Version - 1.0.7
+Current changes logged:
+* Updating the documentation
+    * Updated Readme.md
+    * Changes to copyright
+
+* Change of the default tool, instead of OpenhardwareMonitor, i moved towards using LibreHardwareMonitor, instead as a temperary solution. The reason for it, is due to OpenHardwareMonitor has become deprecated and therefor is not updated or patched anymore.
+    * Addition of librehardwaremonitor in the datasets csv directory.
+
+* Updated cover image.
+
+* Files larger than 80 mb will be moved to LFS.
+
+* Updated licenses files.
+
 ## Version - 1.0.6
+* Addition of performance data to the dataset.
+    * Added a directory for a new laptop. ASUS TUF A15.
+
+* Made changes to which files should be exported. 
+    * Documents has been removed from exports as they will be changed often. Making them old and 'out of date' really quickly.
 
 ## Version - 1.0.5
 Have added data for about a month, recorded from my GL553VD laptop. 
