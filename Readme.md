@@ -126,9 +126,8 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 ## Foot Notes
 [^1]: sha256sum ./filepath.txt
 
-[^2]: sha256 hash checksum for zip 8567f124aadb59688785130c8d9602de1e809621e74bf582711c8ec2007ff15a
-
-[^3]: sha256 hash checksum for tar.gz 4682b2df535bd0ef7b0b3276cd4fb57f4a05d2a761aa3a50abeaf87b161f614f
+[^2]: sha256 hash checksum for zip bf47c81665dc45d513b8e1d393c04695e3978eb14b1ef39e61039335a62de9ab
+[^3]: sha256 hash checksum for tar.gz c942b748435874a28e9326190a4481256087853167eddd58f34a199d2a69c704
 
 [^4]: JavaScript Object Notation
 
@@ -152,19 +151,28 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 <!-- Donwload Dataset Shortcut -->
 [KAGGLE_DATASET_LOCATION]: https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance
 
-[WEBARCHIVE_DATASET_LOCATION]: https://archive.org/download/data.private.performance-release-06-09-2022
-[WEBARCHIVE_DATASET_ZIP]: https://archive.org/download/hardware-performance-archive-12.01.2024/Archive-release-12.01.2024-1.fix.zip
-[WEBARCHIVE_DATASET_ZIP_CONTENT]: https://ia601207.us.archive.org/view_archive.php?archive=/13/items/hardware-performance-archive-12.01.2024/Archive-release-12.01.2024-1.fix.zip
+[WEBARCHIVE_DATASET_LOCATION]: https://archive.org/details/HPA-Version-1.0.7
 
-[WEBARCHIVE_DATASET_TAR_GZ]: https://archive.org/download/hardware-performance-archive-12.01.2024/Archive-release-12.01.2024-1.fix.tar.gz
+[WEBARCHIVE_DATASET_ZIP]: https://archive.org/download/HPA-Version-1.0.7/Archive-release-02-10-2024.zip
+[WEBARCHIVE_DATASET_ZIP_CONTENT]: https://archive.org/download/HPA-Version-1.0.7/Archive-release-02-10-2024.zip/
 
-[GITHUB_DATASET_RELEASE_LOCATION]: https://github.com/Hardware-Performance-Archive/Archive/releases/tag/release-12.01.2024-1.fix
-[GITHUB_DATASET_LOCATION_TAR_GZ]: https://github.com/Hardware-Performance-Archive/Archive/archive/refs/tags/release-12.01.2024-1.fix.tar.gz
-[GITHUB_DATASET_LOCATION_ZIP]: https://github.com/Hardware-Performance-Archive/Archive/archive/refs/tags/release-12.01.2024-1.fix.zip
+[WEBARCHIVE_DATASET_TAR_GZ]: https://archive.org/download/HPA-Version-1.0.7/Archive-release-02-10-2024.tar.gz
 
-[ONEDRIVE_LOCATION]: https://1drv.ms/f/s!AnVSo6qhoQp5laYABj5zKFwyrllctg?e=osZ0ag
-[ONEDRIVE_ZIP_LOCATION]: 
-[ONEDRIVE_TAR_GZ_LOCATION]: 
+
+[GITHUB_DATASET_RELEASE_LOCATION]: https://github.com/HardwarePerformanceArchive/Archive/releases/tag/release-02-10-2024
+
+[GITHUB_DATASET_LOCATION_ZIP]: https://github.com/HardwarePerformanceArchive/Archive/archive/refs/tags/release-02-10-2024.zip
+
+[GITHUB_DATASET_LOCATION_TAR_GZ]: https://github.com/HardwarePerformanceArchive/Archive/archive/refs/tags/release-02-10-2024.tar.gz
+
+
+[ONEDRIVE_LOCATION]: https://1drv.ms/f/s!AnVSo6qhoQp5nsIYWtqU9wcmh2KVxw?e=L9x5en
+
+[ONEDRIVE_ZIP_LOCATION]: https://1drv.ms/u/s!AnVSo6qhoQp5nsIZKxU2vO6eaGoW7g?e=iO8jJW
+
+[ONEDRIVE_TAR_GZ_LOCATION]: https://1drv.ms/u/s!AnVSo6qhoQp5nsIaMP4qRe3LlNyfAg?e=tcVQYZ
+
+
 
 
 [PREVIOUS_ACCOUNT]: https://github.com/KentMadsen
