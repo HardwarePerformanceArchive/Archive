@@ -118,7 +118,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 
 
 ### Document
-* Original creation date is at: [31-01-2019][OLD_REPOSITORY], [Kent Madsen][PREVIOUS_ACCOUNT]
+* Original creation date is at: [31-01-2019][OLD_REPOSITORY] by [Kent Madsen][PREVIOUS_ACCOUNT].
 * Created at: 29-01-2020
 * Updated at: 02-10-2024
 
