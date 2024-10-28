@@ -1,7 +1,7 @@
 # Hardware Performance Archive
 ![Repository cover image for social networks][Cover_Image]
 
-This repository contains data that are recorded hardware performance. The raw data is saved in CSV[^7] 
+This repository contains data that are recorded hardware performance. The raw data is saved in CSV
 fileformat and is located in the dataset directory.
 
 The release of the latest version can be found and downloaded at 
@@ -10,27 +10,26 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Overview
-* Go to content description At [this location][CONTENT_LOCATION].
 * Current Version at: V1.0.7
-* Size of dataset directory: 29.9 GB
+* Size of dataset directory: 31.7 GB
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
         * First record at: 2018-09-17
-        * Last record at: 2024-10-01
-        * Dataset Record File format: CSV[^7]
+        * Last record at: 2024-10-27
+        * Dataset Record File format: CSV
 
     * Formatted: None
 
 
 ### Total size of the dataset
-* Datasets total size is: ( **29.9** GB )
-    * dataset directory: 29.9 GB
-        * CSV[^7]
+* Datasets total size is: ( **31.7** GB )
+    * dataset directory: 31.7 GB
+        * CSV
         
     * formats directory: 0.0 GB
-        * JSON[^4] directory: 0.0 GB
-        * XML[^5] Directory : 0.0 GB
-        * TSV[^6] Directory : 0.0 GB
+        * JSON directory: 0.0 GB
+        * XML Directory : 0.0 GB
+        * TSV Directory : 0.0 GB
 
 
 ### Tools
@@ -48,14 +47,15 @@ Tools used by the repository and where to find them.
 
 
 ### Support
-Currently this repository only has support for CSV[^7] files. 
-I am currently working on a solution. To have the files reformatted into other formats like JSON[^4], XML[^5] and TSV[^6].
+Currently this repository only has support for CSV files. 
+I am currently working on a solution. 
+To have the files reformatted into other formats like JSON, XML and TSV.
 
 Currently in development
 * ***Formats***
-    * JSON[^4]
-    * XML[^5]
-    * TSV[^6]
+    * JSON
+    * XML
+    * TSV
 
 
 * ***Code***
@@ -101,47 +101,33 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
     
      **APA**
 
-          Kent vejrup Madsen. (2022).
-          <i>Performance Data</i>
-          [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2360009
+        Kent vejrup Madsen. (2022).
+        <i>Performance Data</i>
+        [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2360009
 
     **BibTeX**
 
-          @misc{
+        @misc{
             kent vejrup madsen_2022,
             title={Performance Data},
             url={https://www.kaggle.com/ds/2360009},
             DOI={10.34740/KAGGLE/DS/2360009},
             publisher={Kaggle},
             author={Kent vejrup Madsen},
-            year={2022} }
+            year={2022} 
+        }
 
 
 ### Document
 * Original creation date is at: [31-01-2019][OLD_REPOSITORY] by [Kent Madsen][PREVIOUS_ACCOUNT].
 * Created at: 29-01-2020
-* Updated at: 02-10-2024
-
-
-## Foot Notes
-[^1]: sha256sum ./filepath.txt
-
-[^2]: sha256 hash checksum for zip bf47c81665dc45d513b8e1d393c04695e3978eb14b1ef39e61039335a62de9ab
-[^3]: sha256 hash checksum for tar.gz c942b748435874a28e9326190a4481256087853167eddd58f34a199d2a69c704
-
-[^4]: JavaScript Object Notation
-
-[^5]: eXtensible Markup Language
-
-[^6]: Tab-seperated values
-
-[^7]: Comma-seperated values
+* Updated at: 28-10-2024
 
 <!-- Shortcuts -->
 [MYSQL_URL]: https://www.mysql.com/
 [POSTGRESQL_URL]: https://www.postgresql.org/
 
-[Cover_Image]: docs/resources/covers/800x600.jpg
+[Cover_Image]: .github/covers/800x600.jpg
 
 [MIT_License]: License.md
 [ATT4INT_License]: License.md  
@@ -172,17 +158,19 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 
 [ONEDRIVE_TAR_GZ_LOCATION]: https://1drv.ms/u/s!AnVSo6qhoQp5nsIaMP4qRe3LlNyfAg?e=tcVQYZ
 
-
-
-
 [PREVIOUS_ACCOUNT]: https://github.com/KentMadsen
 [CURRENT_ACCOUNT]: https://github.com/KentVejrupMadsen
 
-[CHANGELOG_LOCATION]: docs/changelog.md
-[CONTENT_LOCATION]: docs/contents.md
+[CHANGELOG_LOCATION]: changelog.md
 
 [DOWNLOAD_OPENHARDWARE_MONITOR]: https://openhardwaremonitor.org/downloads/
 [DOWNLOAD_LIBRE_HARDWARE_MONITOR]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/tag/v0.9.3
 
 [OPENHARDWARE_MONITOR_GITHUB]: https://github.com/openhardwaremonitor/openhardwaremonitor
 [LIBRE_HARDWARE_MONITOR_GITHUB]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+
+## Foot Notes
+[^1]: sha256sum ./filepath.txt
+
+[^2]: sha256 hash checksum for zip bf47c81665dc45d513b8e1d393c04695e3978eb14b1ef39e61039335a62de9ab
+[^3]: sha256 hash checksum for tar.gz c942b748435874a28e9326190a4481256087853167eddd58f34a199d2a69c704
