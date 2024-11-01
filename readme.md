@@ -10,20 +10,20 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Overview
-* Current Version at: V1.0.7
-* Size of dataset directory: 31.7 GB
+* Current Version at: V1.0.8
+* Size of dataset directory: 32 GB
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
         * First record at: 2018-09-17
-        * Last record at: 2024-10-27
+        * Last record at: 2024-10-31
         * Dataset Record File format: CSV
 
     * Formatted: None
 
 
 ### Total size of the dataset
-* Datasets total size is: ( **31.7** GB )
-    * dataset directory: 31.7 GB
+* Datasets total size is: ( **32** GB )
+    * dataset directory: 32 GB
         * CSV
         
     * formats directory: 0.0 GB
@@ -41,8 +41,8 @@ Tools used by the repository and where to find them.
 
 #### Logging Tools
 * Files logged with: 
-    * (2024 - ?) [LibreHardwareMonitor][DOWNLOAD_LIBRE_HARDWARE_MONITOR], It's repository on [Github][LIBRE_HARDWARE_MONITOR_GITHUB]
-    * (2018 - 2024) [OpenHardwareMonitor][DOWNLOAD_OPENHARDWARE_MONITOR], it's repository on [Github][OPENHARDWARE_MONITOR_GITHUB]
+    * (2024 - ?) [LibreHardwareMonitor][DOWNLOAD_LIBRE_HARDWARE_MONITOR], the repository can be found on [Github][LIBRE_HARDWARE_MONITOR_GITHUB]
+    * (2018 - 2024) [OpenHardwareMonitor][DOWNLOAD_OPENHARDWARE_MONITOR], the repository can be found on [Github][OPENHARDWARE_MONITOR_GITHUB]
 
 
 
@@ -121,7 +121,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 ### Document
 * Original creation date is at: [31-01-2019][OLD_REPOSITORY] by [Kent Madsen][PREVIOUS_ACCOUNT].
 * Created at: 29-01-2020
-* Updated at: 28-10-2024
+* Updated at: 01-11-2024
 
 <!-- Shortcuts -->
 [MYSQL_URL]: https://www.mysql.com/
