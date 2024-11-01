@@ -38,5 +38,5 @@
 /docs export-ignore
 
 # LFS Files
-*.lfs filter=lfs diff=lfs merge=lfs -text
-*.lfs.* filter=lfs diff=lfs merge=lfs -text
+*.lfs filter=lfs diff=lfs merge=lfs -text export-ignore
+*.lfs.* filter=lfs diff=lfs merge=lfs -text export-ignore
