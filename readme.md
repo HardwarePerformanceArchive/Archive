@@ -1,4 +1,6 @@
 # Hardware Performance Archive
+[![DOI][ZENADO_BADGE]][ZENADO_DOI]
+
 ![Repository cover image for social networks][Cover_Image]
 
 This repository contains data that are recorded hardware performance. The raw data is saved in CSV
@@ -168,6 +170,9 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 
 [OPENHARDWARE_MONITOR_GITHUB]: https://github.com/openhardwaremonitor/openhardwaremonitor
 [LIBRE_HARDWARE_MONITOR_GITHUB]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+
+[ZENADO_DOI]: https://doi.org/10.5281/zenodo.14028503
+[ZENADO_BADGE]: https://zenodo.org/badge/237001402.svg
 
 ## Foot Notes
 [^1]: sha256sum ./filepath.example_file_extension
