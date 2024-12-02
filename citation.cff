@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: Madsen
   given-names: Kent
-orcid: https://orcid.org/0009-0005-4996-362X
+  orcid: https://orcid.org/0009-0005-4996-362X
 title: "Hardware Performance Archive"
 version: 1.0.9
 date-released: 2024-12-02
