@@ -1,4 +1,6 @@
 # Hardware Performance Archive
+[![DOI][ZENADO_BADGE]][ZENADO_DOI]
+
 ![Repository cover image for social networks][Cover_Image]
 
 This repository contains data that are recorded hardware performance. The raw data is saved in CSV
@@ -10,20 +12,20 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Overview
-* Current Version at: V1.0.8
-* Size of dataset directory: 32 GB
+* Current Version at: V1.0.9
+* Size of dataset directory: 34.1 GB
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
         * First record at: 2018-09-17
-        * Last record at: 2024-10-31
+        * Last record at: 2024-12-01
         * Dataset Record File format: CSV
 
     * Formatted: None
 
 
 ### Total size of the dataset
-* Datasets total size is: ( **32** GB )
-    * dataset directory: 32 GB
+* Datasets total size is: ( **34.1** GB )
+    * dataset directory: 34.1 GB
         * CSV
         
     * formats directory: 0.0 GB
@@ -119,9 +121,9 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 
 
 ### Document
-* Original creation date is at: [31-01-2019][OLD_REPOSITORY] by [Kent Madsen][PREVIOUS_ACCOUNT].
 * Created at: 29-01-2020
-* Updated at: 01-11-2024
+* Updated at: 02-12-2024
+* Original creation date of the [repository][OLD_REPOSITORY] is at: 31-01-2019  by [Kent Madsen][PREVIOUS_ACCOUNT].
 
 <!-- Shortcuts -->
 [MYSQL_URL]: https://www.mysql.com/
@@ -168,6 +170,9 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 
 [OPENHARDWARE_MONITOR_GITHUB]: https://github.com/openhardwaremonitor/openhardwaremonitor
 [LIBRE_HARDWARE_MONITOR_GITHUB]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+
+[ZENADO_DOI]: https://doi.org/10.5281/zenodo.14028503
+[ZENADO_BADGE]: https://zenodo.org/badge/237001402.svg
 
 ## Foot Notes
 [^1]: sha256sum ./filepath.example_file_extension
