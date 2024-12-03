@@ -1,6 +1,6 @@
 # Changes
 ## Version - 1.0.9
-* [Common Hardware Initiative](https://github.com/CHI-Performance) has been renamed to [Hardware Performance Archive](https://github.com/HardwarePerformanceArchive) a more fitting name to the archive and fitting.
+* [Common Hardware Initiative](https://github.com/CHI-Performance) has been renamed to [Hardware Performance Archive](https://github.com/HardwarePerformanceArchive) a more fitting name to the archive.
 * Changes to the documentaion to make it easier to navigate.
 
 
