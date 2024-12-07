@@ -141,7 +141,7 @@ Currently also working on having the data sorted & filtered by Year. together wi
 [^2]: sha256 hash checksum for zip bf47c81665dc45d513b8e1d393c04695e3978eb14b1ef39e61039335a62de9ab
 [^3]: sha256 hash checksum for tar.gz c942b748435874a28e9326190a4481256087853167eddd58f34a199d2a69c704
 [^4]: Original creation date of the [repository][OLD_REPOSITORY] is at: 31-01-2019 by [Kent Madsen][PREVIOUS_ACCOUNT]. 
-[^5]: Keep in mind that this repository is a fork of the repository [Private-Data-Performance][OLD_REPOSITORY], at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
+[^5]: Keep in mind that this repository is a fork of the repository [Private-Data-Performance][OLD_REPOSITORY], as I lost access to my previous [account][PREVIOUS_ACCOUNT].
 
 <!-- Shortcuts -->
 [MYSQL_URL]: https://www.mysql.com/
