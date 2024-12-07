@@ -131,6 +131,14 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 * Original creation date of the [repository][OLD_REPOSITORY] is at: 31-01-2019 by [Kent Madsen][PREVIOUS_ACCOUNT].
 
 
+## Foot Notes
+[^1]: sha256sum ./filepath.example_file_extension
+
+[^2]: sha256 hash checksum for zip bf47c81665dc45d513b8e1d393c04695e3978eb14b1ef39e61039335a62de9ab
+[^3]: sha256 hash checksum for tar.gz c942b748435874a28e9326190a4481256087853167eddd58f34a199d2a69c704
+
+
+
 <!-- Shortcuts -->
 [MYSQL_URL]: https://www.mysql.com/
 [POSTGRESQL_URL]: https://www.postgresql.org/
@@ -150,39 +158,36 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 
 [WEBARCHIVE_DATASET_ZIP]: https://archive.org/download/HPA-Version-1.0.7/Archive-release-02-10-2024.zip
 [WEBARCHIVE_DATASET_ZIP_CONTENT]: https://archive.org/download/HPA-Version-1.0.7/Archive-release-02-10-2024.zip/
-
 [WEBARCHIVE_DATASET_TAR_GZ]: https://archive.org/download/HPA-Version-1.0.7/Archive-release-02-10-2024.tar.gz
 
 
+
 [GITHUB_DATASET_RELEASE_LOCATION]: https://github.com/HardwarePerformanceArchive/Archive/releases/tag/release-02-10-2024
-
 [GITHUB_DATASET_LOCATION_ZIP]: https://github.com/HardwarePerformanceArchive/Archive/archive/refs/tags/release-02-10-2024.zip
-
 [GITHUB_DATASET_LOCATION_TAR_GZ]: https://github.com/HardwarePerformanceArchive/Archive/archive/refs/tags/release-02-10-2024.tar.gz
 
 
+
 [ONEDRIVE_LOCATION]: https://1drv.ms/f/s!AnVSo6qhoQp5nsIYWtqU9wcmh2KVxw?e=L9x5en
-
 [ONEDRIVE_ZIP_LOCATION]: https://1drv.ms/u/s!AnVSo6qhoQp5nsIZKxU2vO6eaGoW7g?e=iO8jJW
-
 [ONEDRIVE_TAR_GZ_LOCATION]: https://1drv.ms/u/s!AnVSo6qhoQp5nsIaMP4qRe3LlNyfAg?e=tcVQYZ
+
+
 
 [PREVIOUS_ACCOUNT]: https://github.com/KentMadsen
 [CURRENT_ACCOUNT]: https://github.com/KentVejrupMadsen
 
+
 [CHANGELOG_LOCATION]: changelog.md
+
 
 [DOWNLOAD_OPENHARDWARE_MONITOR]: https://openhardwaremonitor.org/downloads/
 [DOWNLOAD_LIBRE_HARDWARE_MONITOR]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/tag/v0.9.3
 
+
 [OPENHARDWARE_MONITOR_GITHUB]: https://github.com/openhardwaremonitor/openhardwaremonitor
 [LIBRE_HARDWARE_MONITOR_GITHUB]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
 
+
 [ZENADO_DOI]: https://doi.org/10.5281/zenodo.14028503
 [ZENADO_BADGE]: https://zenodo.org/badge/237001402.svg
-
-## Foot Notes
-[^1]: sha256sum ./filepath.example_file_extension
-
-[^2]: sha256 hash checksum for zip bf47c81665dc45d513b8e1d393c04695e3978eb14b1ef39e61039335a62de9ab
-[^3]: sha256 hash checksum for tar.gz c942b748435874a28e9326190a4481256087853167eddd58f34a199d2a69c704
