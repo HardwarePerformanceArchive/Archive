@@ -119,7 +119,8 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 
     **BibTeX**
 
-        @misc{kent_vejrup_madsen_2024,
+        @misc{
+            kent_vejrup_madsen_2024,
             title       = {Hardware Performance Data},
             url         = {https://www.kaggle.com/dsv/10092247},
             DOI         = {10.34740/KAGGLE/DSV/10092247},
