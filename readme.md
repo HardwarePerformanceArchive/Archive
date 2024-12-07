@@ -106,7 +106,7 @@ Together with making branches for it.
 
 * Citations
     * [Kaggle](./citations_kaggle.md)
-    * Zenado
+    * [Zenodo](./citations_zenodo.md)
 
 
 ### Document
