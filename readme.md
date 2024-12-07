@@ -32,10 +32,10 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 | Format       | Size         | Measurement  |
 | ------------ | ------------ | ------------ |
-| **All**      | 0.0          | GB           |
-| JSON         | 0.0          | GB           |
-| XML          | 0.0          | GB           |
-| TSV          | 0.0          | GB           |
+| **All**      | 0.0          | None         |
+| JSON         | 0.0          | None         |
+| XML          | 0.0          | None         |
+| TSV          | 0.0          | None         |
 
 ### Tools
 Tools used by the repository and where to find them.
