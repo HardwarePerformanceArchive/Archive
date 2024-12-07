@@ -109,7 +109,10 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 - **DOI**, 10.34740/kaggle/dsv/10092247
     
      **APA**
-        Kent vejrup Madsen. (2024). Hardware Performance Data [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/10092247
+        Kent vejrup Madsen. (2024). 
+        Hardware Performance Data [Data set]. 
+        Kaggle. 
+        https://doi.org/10.34740/KAGGLE/DSV/10092247
 
     **BibTeX**
         @misc{kent_vejrup_madsen_2024,
@@ -127,6 +130,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 * Updated at: 07-12-2024
 * Original creation date of the [repository][OLD_REPOSITORY] is at: 31-01-2019  by [Kent Madsen][PREVIOUS_ACCOUNT].
 
+
 <!-- Shortcuts -->
 [MYSQL_URL]: https://www.mysql.com/
 [POSTGRESQL_URL]: https://www.postgresql.org/
@@ -137,6 +141,7 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 [ATT4INT_License]: License.md  
 
 [OLD_REPOSITORY]: https://github.com/KentMadsen/Private-Data-Performance
+
 
 <!-- Donwload Dataset Shortcut -->
 [KAGGLE_DATASET_LOCATION]: https://www.kaggle.com/datasets/kentvejrupmadsen/dataset-performance
