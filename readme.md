@@ -29,10 +29,11 @@ You're welcome to experiement with it in 'notebooks' and etc.
         * CSV
         
     * formats directory: 0.0 GB
-        * JSON directory: 0.0 GB
-        * XML Directory : 0.0 GB
-        * TSV Directory : 0.0 GB
-
+    | Format| Size   | measured |
+    | ----- | ------ | -------- |
+    | JSON  | 0.0    | GB       |
+    | XML   | 0.0    | GB       |
+    | TSV   | 0.0    | GB       |
 
 ### Tools
 Tools used by the repository and where to find them.
