@@ -72,27 +72,21 @@ Currently in development
     * [MySQL][MYSQL_URL]
     * [PostgreSQL][POSTGRESQL_URL]
 
-
 Currently also working on having the data sorted & filtered by Year. 
 Together with making branches for it.
 
 ### Download At
 * [Kaggle][KAGGLE_DATASET_LOCATION] a place to download datasets and to play with data. Which can be though a python terminal or their website.
-
 * [Web Archive][WEBARCHIVE_DATASET_LOCATION]
     * [ZIP][WEBARCHIVE_DATASET_ZIP]
         * [CONTENT][WEBARCHIVE_DATASET_ZIP_CONTENT]
-
     * [TAR.GZ][WEBARCHIVE_DATASET_TAR_GZ]
-
 * [Onedrive][ONEDRIVE_LOCATION]
     * [ZIP](https://1drv.ms/u/s!AnVSo6qhoQp5j8RjDo0Z3ozNKr9xXQ?e=H3qbAm)[^2], 
     * [TAR.GZ](https://1drv.ms/u/s!AnVSo6qhoQp5j8RkosdL1iV1cWcG2g?e=ReCjNt)[^3]
-
 * [Github][GITHUB_DATASET_RELEASE_LOCATION]
     * [ZIP][GITHUB_DATASET_LOCATION_ZIP] [^1] [^2]
     * [TAR.GZ][GITHUB_DATASET_LOCATION_TAR_GZ] [^1] [^3]
-
 
 ## Appendices
 * Author: [Kent vejrup Madsen][CURRENT_ACCOUNT][^5]
