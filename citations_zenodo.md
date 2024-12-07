@@ -13,7 +13,8 @@
 
 **BibTeX**
 
-    @dataset{kent_2024_14262334,
+    @dataset{
+        kent_2024_14262334,
         author       = {Kent, Madsen},
         title        = {Hardware Performance Archive},
         month        = dec,
