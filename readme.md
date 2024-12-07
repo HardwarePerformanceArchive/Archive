@@ -6,8 +6,7 @@
 This repository contains data that are recorded hardware performance. The raw data is saved in CSV
 fileformat and is located in the dataset directory.
 
-The release of the latest version can be found and downloaded at 
-[Kaggle][KAGGLE_DATASET_LOCATION]. 
+The release of the latest version can be found and downloaded at [Kaggle][KAGGLE_DATASET_LOCATION]. 
 You're welcome to experiement with it in 'notebooks' and etc.
 
 
@@ -63,9 +62,10 @@ To have the files reformatted into other formats like JSON, XML and TSV.
 
 Currently in development
 * ***Formats***
+    * CSV
+    * TSV
     * JSON
     * XML
-    * TSV
 
 
 * ***Code***
@@ -106,7 +106,7 @@ Currently also working on having the data sorted & filtered by Year. together wi
 
 ### Citation
 **DOI**
-        
+
     10.34740/kaggle/dsv/10092247
     
 **APA**
