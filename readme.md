@@ -27,11 +27,12 @@ You're welcome to experiement with it in 'notebooks' and etc.
 * Datasets total size is: ( **34.1** GB )
     * dataset directory: 34.1 GB
         * CSV
-        
-    * formats directory: 0.0 GB
+
+#### by Exports
 
 | Format       | Size         | Measurement  |
 | ------------ | ------------ | ------------ |
+| **All**      | 0.0          | GB           |
 | JSON         | 0.0          | GB           |
 | XML          | 0.0          | GB           |
 | TSV          | 0.0          | GB           |
