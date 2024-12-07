@@ -99,30 +99,25 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 
 
 ### Citation
-- **DOI**, 10.34740/kaggle/ds/2360009
+- **DOI**, 10.34740/kaggle/dsv/10092247
     
      **APA**
-
-        Kent vejrup Madsen. (2022).
-        <i>Performance Data</i>
-        [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DS/2360009
+        Kent vejrup Madsen. (2024). Hardware Performance Data [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/10092247
 
     **BibTeX**
-
-        @misc{
-            kent vejrup madsen_2022,
-            title={Performance Data},
-            url={https://www.kaggle.com/ds/2360009},
-            DOI={10.34740/KAGGLE/DS/2360009},
+        @misc{kent_vejrup_madsen_2024,
+            title={Hardware Performance Data},
+            url={https://www.kaggle.com/dsv/10092247},
+            DOI={10.34740/KAGGLE/DSV/10092247},
             publisher={Kaggle},
             author={Kent vejrup Madsen},
-            year={2022} 
+            year={2024}
         }
 
 
 ### Document
 * Created at: 29-01-2020
-* Updated at: 02-12-2024
+* Updated at: 07-12-2024
 * Original creation date of the [repository][OLD_REPOSITORY] is at: 31-01-2019  by [Kent Madsen][PREVIOUS_ACCOUNT].
 
 <!-- Shortcuts -->
