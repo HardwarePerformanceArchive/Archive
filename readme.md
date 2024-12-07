@@ -24,9 +24,11 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ### Total size of the dataset
-* Datasets total size is: ( **34.1** GB )
-    * dataset directory: 34.1 GB
-        * CSV
+
+| Format                | Size         | Measurement  |
+| --------------------- | ------------ | ------------ |
+| Dataset directory     | 34.1         | GB           |
+| Exports directory     | 0.0          | GB           |
 
 #### by Exports
 
@@ -36,6 +38,7 @@ You're welcome to experiement with it in 'notebooks' and etc.
 | JSON         | 0.0          | None         |
 | XML          | 0.0          | None         |
 | TSV          | 0.0          | None         |
+
 
 ### Tools
 Tools used by the repository and where to find them.
