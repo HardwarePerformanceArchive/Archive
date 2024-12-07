@@ -102,8 +102,6 @@ Together with making branches for it.
     * Licenses
         * [MIT - Source Code License][MIT_License]
         * [Dataset License - Attribution 4.0 International][ATT4INT_License]
-
-
 * Citations
     * [Kaggle](./citations_kaggle.md)
     * [Zenodo](./citations_zenodo.md)
