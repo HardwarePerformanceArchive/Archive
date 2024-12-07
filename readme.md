@@ -138,7 +138,6 @@ at my previous [account][PREVIOUS_ACCOUNT] as i have lost access to it.
 [^3]: sha256 hash checksum for tar.gz c942b748435874a28e9326190a4481256087853167eddd58f34a199d2a69c704
 
 
-
 <!-- Shortcuts -->
 [MYSQL_URL]: https://www.mysql.com/
 [POSTGRESQL_URL]: https://www.postgresql.org/

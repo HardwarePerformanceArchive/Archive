@@ -1,2 +1,2 @@
 # Directory
-Only files that are formatted in XML are in this directory.
+Only files that are formatted in the XML file format are in this directory.
