@@ -36,9 +36,10 @@ You're welcome to experiement with it in 'notebooks' and etc.
 | Format       | Size         | Measurement  |
 | ------------ | ------------ | ------------ |
 | **All**      | **0.0**      | **None**     |
-| JSON         | 0.0          | None         |
-| XML          | 0.0          | None         |
+| CSV          | 0.0          | None         |
 | TSV          | 0.0          | None         |
+| XML          | 0.0          | None         |
+| JSON         | 0.0          | None         |
 
 
 ### Tools
