@@ -29,6 +29,7 @@ You're welcome to experiement with it in 'notebooks' and etc.
         * CSV
         
     * formats directory: 0.0 GB
+    
 | Format       | Size         | measurement  |
 | ------------ | ------------ | ------------ |
 | JSON         | 0.0          | GB           |
