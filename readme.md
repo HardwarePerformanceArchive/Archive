@@ -27,6 +27,7 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 | Format                | Size         | Measurement  |
 | --------------------- | ------------ | ------------ |
+| **All**               | **34.1**     | **GB**       |
 | Dataset directory     | 34.1         | GB           |
 | Exports directory     | 0.0          | GB           |
 
