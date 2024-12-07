@@ -105,7 +105,7 @@ Together with making branches for it.
 
 
 * Citations
-    * Kaggle
+    * [Kaggle](./citations_kaggle.md)
     * Zenado
 
 
