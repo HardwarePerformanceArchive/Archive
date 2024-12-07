@@ -32,12 +32,14 @@
     doi: 10.5281/zenodo.14262334.
 
 **Vancouver**
+
     1. Kent M. 
     Hardware Performance Archive. 
     Zenodo; 
     2024. 
 
 **IEEE**
+
     [1]M. Kent, 
     “Hardware Performance Archive”. 
     Zenodo, 
