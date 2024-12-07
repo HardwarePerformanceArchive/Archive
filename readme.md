@@ -18,7 +18,6 @@ You're welcome to experiement with it in 'notebooks' and etc.
         * First record at: 2018-09-17
         * Last record at: 2024-12-01
         * Dataset Record File format: CSV
-
     * Formatted: None
 
 
@@ -54,7 +53,6 @@ Tools used by the repository and where to find them.
     * (2018 - 2024) [OpenHardwareMonitor][DOWNLOAD_OPENHARDWARE_MONITOR], the repository can be found on [Github][OPENHARDWARE_MONITOR_GITHUB]
 
 
-
 ### Support
 Currently this repository only has support for CSV files. 
 I am currently working on a solution. 
@@ -66,7 +64,6 @@ Currently in development
     * TSV
     * JSON
     * XML
-
 
 * ***Code***
     * [MySQL][MYSQL_URL]
