@@ -141,9 +141,9 @@ Together with making branches for it.
 
 
 
-[ONEDRIVE_LOCATION]: https://1drv.ms/f/s!AnVSo6qhoQp5nsIYWtqU9wcmh2KVxw?e=L9x5en
-[ONEDRIVE_ZIP_LOCATION]: https://1drv.ms/u/s!AnVSo6qhoQp5nsIZKxU2vO6eaGoW7g?e=iO8jJW
-[ONEDRIVE_TAR_GZ_LOCATION]: https://1drv.ms/u/s!AnVSo6qhoQp5nsIaMP4qRe3LlNyfAg?e=tcVQYZ
+[ONEDRIVE_LOCATION]: https://1drv.ms/f/c/790aa1a1aaa35275/EjpKJHpPx7xHqgp-EgS-FvQBM9Pvem9AsKx-yqHiFHE_8A?e=fWU165
+[ONEDRIVE_ZIP_LOCATION]: https://1drv.ms/u/c/790aa1a1aaa35275/EUzmigF01nBEtee3CurQNsEBkeAalUTSwAE2nfp_ti3sNA?e=OgYlRj
+[ONEDRIVE_TAR_GZ_LOCATION]: https://1drv.ms/u/c/790aa1a1aaa35275/EanOs0uc7rxIiCRQFGSOuVwBr6STnp60jnrumcztKStgKQ?e=LM59eI
 
 
 
