@@ -129,9 +129,9 @@ Together with making branches for it.
 
 [WEBARCHIVE_DATASET_LOCATION]: https://archive.org/details/HPA-Version-1.0.7
 
-[WEBARCHIVE_DATASET_ZIP]: https://archive.org/download/HPA-Version-1.0.7/Archive-release-02-10-2024.zip
-[WEBARCHIVE_DATASET_ZIP_CONTENT]: https://archive.org/download/HPA-Version-1.0.7/Archive-release-02-10-2024.zip/
-[WEBARCHIVE_DATASET_TAR_GZ]: https://archive.org/download/HPA-Version-1.0.7/Archive-release-02-10-2024.tar.gz
+[WEBARCHIVE_DATASET_ZIP]: https://archive.org/download/HPA-Version-1.0.9/Archive-release-02-12-2024.zip
+[WEBARCHIVE_DATASET_ZIP_CONTENT]: https://ia800106.us.archive.org/view_archive.php?archive=/32/items/HPA-Version-1.0.9/Archive-release-02-12-2024.zip
+[WEBARCHIVE_DATASET_TAR_GZ]: https://archive.org/download/HPA-Version-1.0.9/Archive-release-02-12-2024.tar.gz
 
 
 
