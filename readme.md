@@ -79,8 +79,8 @@ Together with making branches for it.
         * [CONTENT][WEBARCHIVE_DATASET_ZIP_CONTENT]
     * [TAR.GZ][WEBARCHIVE_DATASET_TAR_GZ]
 * [Onedrive][ONEDRIVE_LOCATION]
-    * [ZIP](https://1drv.ms/u/s!AnVSo6qhoQp5j8RjDo0Z3ozNKr9xXQ?e=H3qbAm)[^2], 
-    * [TAR.GZ](https://1drv.ms/u/s!AnVSo6qhoQp5j8RkosdL1iV1cWcG2g?e=ReCjNt)[^3]
+    * [ZIP][ONEDRIVE_ZIP_LOCATION][^2], 
+    * [TAR.GZ][ONEDRIVE_TAR_GZ_LOCATION][^3]
 * [Github][GITHUB_DATASET_RELEASE_LOCATION]
     * [ZIP][GITHUB_DATASET_LOCATION_ZIP] [^1] [^2]
     * [TAR.GZ][GITHUB_DATASET_LOCATION_TAR_GZ] [^1] [^3]
