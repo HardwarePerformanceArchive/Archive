@@ -76,6 +76,7 @@ Together with making branches for it.
 * Author: [Kent vejrup Madsen][CURRENT_ACCOUNT][^5]
 * Contact: Kent.vejrup.madsen@designermadsen.dk
 * Changelog: [Changes][CHANGELOG_LOCATION]
+* [Download][DOWNLOAD_AT_DOCUMENT]
 * Copyright 2018 - 2024 [Kent vejrup Madsen][CURRENT_ACCOUNT]
     * Licenses
         * [MIT - Source Code License][MIT_License]
@@ -83,7 +84,6 @@ Together with making branches for it.
 * Citations
     * [Kaggle](./citations_kaggle.md)
     * [Zenodo](./citations_zenodo.md)
-* [Download][DOWNLOAD_AT_DOCUMENT]
 
 ### Document
 * Created at: 29-01-2020[^4]
