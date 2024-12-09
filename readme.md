@@ -72,9 +72,6 @@ Currently in development
 Currently also working on having the data sorted & filtered by Year. 
 Together with making branches for it.
 
-### Download At
-
-
 ## Appendices
 * Author: [Kent vejrup Madsen][CURRENT_ACCOUNT][^5]
 * Contact: Kent.vejrup.madsen@designermadsen.dk
@@ -86,7 +83,7 @@ Together with making branches for it.
 * Citations
     * [Kaggle](./citations_kaggle.md)
     * [Zenodo](./citations_zenodo.md)
-
+* [Download][DOWNLOAD_AT_DOCUMENT]
 
 ### Document
 * Created at: 29-01-2020[^4]
@@ -116,8 +113,9 @@ Together with making branches for it.
 [PREVIOUS_ACCOUNT]: https://github.com/KentMadsen
 [CURRENT_ACCOUNT]: https://github.com/KentVejrupMadsen
 
-
+<!-- Documents -->
 [CHANGELOG_LOCATION]: changelog.md
+[DOWNLOAD_AT_DOCUMENT]: download.md
 
 <!-- Kaggle -->
 [KAGGLE_DATASET_LOCATION]: https://doi.org/10.34740/kaggle/dsv/10092247
