@@ -1,4 +1,9 @@
 # Changes
+## Version - 1.0.9
+* [Common Hardware Initiative](https://github.com/CHI-Performance) has been renamed to [Hardware Performance Archive](https://github.com/HardwarePerformanceArchive) a more fitting name to the archive.
+* Changes to the documentaion to make it easier to navigate.
+
+
 ## Version - 1.0.7
 Current changes logged:
 * Updating the documentation
@@ -14,12 +19,14 @@ Current changes logged:
 
 * Updated licenses files.
 
+
 ## Version - 1.0.6
 * Addition of performance data to the dataset.
     * Added a directory for a new laptop. ASUS TUF A15.
 
 * Made changes to which files should be exported. 
     * Documents has been removed from exports as they will be changed often. Making them old and 'out of date' really quickly.
+
 
 ## Version - 1.0.5
 Have added data for about a month, recorded from my GL553VD laptop. 
@@ -38,6 +45,7 @@ than to have it all collected into one repository.
 * Updated cover images
 * Renamed repository and changed the owner of the data from [KentVejrupMadsen](https://github.com/KentVejrupMadsen) to [Common Hardware Initiative](https://github.com/CHI-Performance)'s account
 
+
 ## Version - 1.0.3
 Have been adding data for a month, from my laptop. For 1.0.4[^1], will see if i can automate the versioning process. 
 * Have created more structure to the dataset and documentation. 
@@ -47,8 +55,10 @@ Have been adding data for a month, from my laptop. For 1.0.4[^1], will see if i 
 * Added directory for netdata data, so it's ready-
 * Added workflows to automate the process and make pull request searcheble.
 
+
 ## Appendices
 ### Footnotes
 [^1]: Next version is at 03 October 2022.
 [^2]: Release is at 01 November 2022
 [^3]: Release is at 01 January, 2023 
+
