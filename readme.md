@@ -119,14 +119,18 @@ Together with making branches for it.
 
 [CHANGELOG_LOCATION]: changelog.md
 
+<!-- Kaggle -->
+[KAGGLE_DATASET_LOCATION]: https://doi.org/10.34740/kaggle/dsv/10092247
 
+<!-- Software -->
 [DOWNLOAD_OPENHARDWARE_MONITOR]: https://openhardwaremonitor.org/downloads/
 [DOWNLOAD_LIBRE_HARDWARE_MONITOR]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/tag/v0.9.3
-
 
 [OPENHARDWARE_MONITOR_GITHUB]: https://github.com/openhardwaremonitor/openhardwaremonitor
 [LIBRE_HARDWARE_MONITOR_GITHUB]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
 
 
+
+<!-- Badges -->
 [ZENADO_DOI]: https://doi.org/10.5281/zenodo.14028503
 [ZENADO_BADGE]: https://zenodo.org/badge/237001402.svg
