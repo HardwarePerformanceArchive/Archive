@@ -1,4 +1,4 @@
-### Download At
+# Downloads
 
 * [Kaggle][KAGGLE_DATASET_LOCATION] a place to download datasets and to play with data. Which can be though a python terminal or their website.
 * [Web Archive][WEBARCHIVE_DATASET_LOCATION]
@@ -11,6 +11,12 @@
 * [Github][GITHUB_DATASET_RELEASE_LOCATION]
     * [ZIP][GITHUB_DATASET_LOCATION_ZIP] [^1] [^2]
     * [TAR.GZ][GITHUB_DATASET_LOCATION_TAR_GZ] [^1] [^3]
+
+## Footnotes
+[^1]: sha256sum ./filepath.example_file_extension
+
+[^2]: sha256 hash checksum for zip bf47c81665dc45d513b8e1d393c04695e3978eb14b1ef39e61039335a62de9ab
+[^3]: sha256 hash checksum for tar.gz c942b748435874a28e9326190a4481256087853167eddd58f34a199d2a69c704
 
 
 <!-- Donwload Dataset Shortcut -->
