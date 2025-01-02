@@ -11,12 +11,12 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Overview
-* Current Version at: V1.0.9
-* Size of dataset directory: 34.1 GB
+* Current Version at: V1.1.0
+* Size of dataset directory: 36.3 GB
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
         * First record at: 2018-09-17
-        * Last record at: 2024-12-01
+        * Last record at: 2025-01-01
         * Dataset Record File format: CSV
     * Formatted: None
 
@@ -25,8 +25,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 | Format                | Size         | Measurement  |
 | --------------------- | ------------ | ------------ |
-| **All**               | **34.1**     | **GB**       |
-| Dataset directory     | 34.1         | GB           |
+| **All**               | **36.3**     | **GB**       |
+| Dataset directory     | 36.3         | GB           |
 | Exports directory     | 0.0          | GB           |
 
 #### by Exports
@@ -77,7 +77,7 @@ Together with making branches for it.
 * Contact: Kent.vejrup.madsen@designermadsen.dk
 * Changelog: [Changes][CHANGELOG_LOCATION]
 * [Download][DOWNLOAD_AT_DOCUMENT]
-* Copyright 2018 - 2024 [Kent vejrup Madsen][CURRENT_ACCOUNT]
+* Copyright 2018 - 2025 [Kent vejrup Madsen][CURRENT_ACCOUNT]
     * Licenses
         * [MIT - Source Code License][MIT_License]
         * [Dataset License - Attribution 4.0 International][ATT4INT_License]
@@ -87,12 +87,13 @@ Together with making branches for it.
 
 ### Document
 * Created at: 29-01-2020[^4]
-* Updated at: 09-12-2024
+* Updated at: 02-01-2025
 
 
 
 ## Foot Notes
-[^4]: Original creation date of the [repository][OLD_REPOSITORY] is at: 31-01-2019 by [Kent Madsen][PREVIOUS_ACCOUNT]. 
+[^4]: Original creation date of the [repository][OLD_REPOSITORY] is at: 31-01-2019 by [Kent Madsen][PREVIOUS_ACCOUNT].
+
 [^5]: Keep in mind that this repository is a fork of the repository [Private-Data-Performance][OLD_REPOSITORY], as I lost access to my previous [account][PREVIOUS_ACCOUNT].
 
 <!-- Shortcuts -->
@@ -118,7 +119,7 @@ Together with making branches for it.
 
 <!-- Software -->
 [DOWNLOAD_OPENHARDWARE_MONITOR]: https://openhardwaremonitor.org/downloads/
-[DOWNLOAD_LIBRE_HARDWARE_MONITOR]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/tag/v0.9.3
+[DOWNLOAD_LIBRE_HARDWARE_MONITOR]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/tag/v0.9.4
 
 [OPENHARDWARE_MONITOR_GITHUB]: https://github.com/openhardwaremonitor/openhardwaremonitor
 [LIBRE_HARDWARE_MONITOR_GITHUB]: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor

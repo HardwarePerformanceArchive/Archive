@@ -1,5 +1,6 @@
 # Default for all
 * text=auto eol=lf
+*.txt text
 
 # Documentation
 *.md text diff=markdown eol=crlf export-ignore
@@ -9,10 +10,9 @@
 *.csv text diff=csv
 *.xml text diff=xml
 *.json text diff=json
-*.txt text
 
 # Image Formats
-*.svg text eol=lf diff=xml
+*.svg text diff=xml
 *.bmp binary diff=exif
 *.png binary diff=exif
 *.tga binary diff=exif
@@ -33,6 +33,7 @@
 .gitignore text diff=gitignore export-ignore
 .gitattributes text diff=gitattributes export-ignore
 .gitmodules text diff=gitmodules export-ignore
+
 /.scripts export-ignore
 /.github export-ignore
 /docs export-ignore
