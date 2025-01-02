@@ -11,8 +11,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 
 ## Overview
-* Current Version at: V1.0.9
-* Size of dataset directory: 34.1 GB
+* Current Version at: V1.1.0
+* Size of dataset directory: 36.3 GB
     * Dataset
         * Encoding of files in dataset directory: US-ASCII
         * First record at: 2018-09-17
@@ -25,8 +25,8 @@ You're welcome to experiement with it in 'notebooks' and etc.
 
 | Format                | Size         | Measurement  |
 | --------------------- | ------------ | ------------ |
-| **All**               | **34.1**     | **GB**       |
-| Dataset directory     | 34.1         | GB           |
+| **All**               | **36.3**     | **GB**       |
+| Dataset directory     | 36.3         | GB           |
 | Exports directory     | 0.0          | GB           |
 
 #### by Exports
@@ -87,7 +87,7 @@ Together with making branches for it.
 
 ### Document
 * Created at: 29-01-2020[^4]
-* Updated at: 09-12-2024
+* Updated at: 02-01-2025
 
 
 
