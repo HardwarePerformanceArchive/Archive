@@ -12,7 +12,7 @@
 *.txt text
 
 # Image Formats
-*.svg text eol=lf diff=xml
+*.svg text diff=xml
 *.bmp binary diff=exif
 *.png binary diff=exif
 *.tga binary diff=exif
