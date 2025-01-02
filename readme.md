@@ -77,7 +77,7 @@ Together with making branches for it.
 * Contact: Kent.vejrup.madsen@designermadsen.dk
 * Changelog: [Changes][CHANGELOG_LOCATION]
 * [Download][DOWNLOAD_AT_DOCUMENT]
-* Copyright 2018 - 2024 [Kent vejrup Madsen][CURRENT_ACCOUNT]
+* Copyright 2018 - 2025 [Kent vejrup Madsen][CURRENT_ACCOUNT]
     * Licenses
         * [MIT - Source Code License][MIT_License]
         * [Dataset License - Attribution 4.0 International][ATT4INT_License]
@@ -92,7 +92,8 @@ Together with making branches for it.
 
 
 ## Foot Notes
-[^4]: Original creation date of the [repository][OLD_REPOSITORY] is at: 31-01-2019 by [Kent Madsen][PREVIOUS_ACCOUNT]. 
+[^4]: Original creation date of the [repository][OLD_REPOSITORY] is at: 31-01-2019 by [Kent Madsen][PREVIOUS_ACCOUNT].
+
 [^5]: Keep in mind that this repository is a fork of the repository [Private-Data-Performance][OLD_REPOSITORY], as I lost access to my previous [account][PREVIOUS_ACCOUNT].
 
 <!-- Shortcuts -->
