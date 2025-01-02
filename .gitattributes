@@ -33,6 +33,7 @@
 .gitignore text diff=gitignore export-ignore
 .gitattributes text diff=gitattributes export-ignore
 .gitmodules text diff=gitmodules export-ignore
+
 /.scripts export-ignore
 /.github export-ignore
 /docs export-ignore
