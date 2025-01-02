@@ -1,5 +1,6 @@
 # Default for all
 * text=auto eol=lf
+*.txt text
 
 # Documentation
 *.md text diff=markdown eol=crlf export-ignore
@@ -9,7 +10,6 @@
 *.csv text diff=csv
 *.xml text diff=xml
 *.json text diff=json
-*.txt text
 
 # Image Formats
 *.svg text diff=xml
